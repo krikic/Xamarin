@@ -1,0 +1,66 @@
+/Users/swapk/Projects/Calculator/Calculator/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/swapk/Projects/Calculator/Calculator/bin/Debug/Calculator.dll.mdb
+/Users/swapk/Projects/Calculator/Calculator/bin/Debug/Calculator.dll
+/Users/swapk/Projects/Calculator/Calculator/bin/Debug/com.companyname.calculator.apk
+/Users/swapk/Projects/Calculator/Calculator/obj/Debug/android/bin/com.companyname.calculator.apk
+/Users/swapk/Projects/Calculator/Calculator/obj/Debug/res/values/strings.xml
+/Users/swapk/Projects/Calculator/Calculator/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/swapk/Projects/Calculator/Calculator/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/swapk/Projects/Calculator/Calculator/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/swapk/Projects/Calculator/Calculator/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/swapk/Projects/Calculator/Calculator/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/swapk/Projects/Calculator/Calculator/obj/Debug/res/layout/calculatorscreen.xml
+/Users/swapk/Projects/Calculator/Calculator/obj/Debug/res/drawable/myshape.xml
+/Users/swapk/Projects/Calculator/Calculator/obj/Debug/res/drawable/mybutton.xml
+/Users/swapk/Projects/Calculator/Calculator/obj/Debug/R.cs.flag
+/Users/swapk/Projects/Calculator/Calculator/bin/Debug/com.companyname.calculator-Signed.apk
+/Users/swapk/Projects/Calculator/Calculator/obj/Debug/uploadflags.txt
+/Users/swapk/Projects/Calculator/Calculator/obj/Debug/Calculator.dll
+/Users/swapk/Projects/Calculator/Calculator/obj/Debug/Calculator.dll.mdb
+/Users/swapk/Projects/Calculator/Calculator/bin/Debug/Xamarin.Android.Support.v13.dll
+/Users/swapk/Projects/Calculator/Calculator/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/swapk/Projects/Calculator/Calculator/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/davidmadicosimon1/Downloads/Xamarin/Android-Calculator-master/Calculator/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/davidmadicosimon1/Downloads/Xamarin/Android-Calculator-master/Calculator/obj/Debug/Calculator.dll
+/Users/davidmadicosimon1/Downloads/Xamarin/Android-Calculator-master/Calculator/obj/Debug/Calculator.dll.mdb
+/Users/davidmadicosimon1/Downloads/Xamarin/Android-Calculator-master/Calculator/bin/Debug/Xamarin.Android.Support.v13.dll
+/Users/davidmadicosimon1/Downloads/Xamarin/Android-Calculator-master/Calculator/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/davidmadicosimon1/Downloads/Xamarin/Android-Calculator-master/Calculator/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/davidmadicosimon1/Downloads/Xamarin/Android-Calculator-master/Calculator/bin/Debug/Calculator.dll.mdb
+/Users/davidmadicosimon1/Downloads/Xamarin/Android-Calculator-master/Calculator/bin/Debug/Calculator.dll
+/Users/davidmadicosimon1/Downloads/Xamarin/Android-Calculator-master/Calculator/bin/Debug/com.companyname.calculator.apk
+/Users/davidmadicosimon1/Downloads/Xamarin/Android-Calculator-master/Calculator/obj/Debug/android/bin/com.companyname.calculator.apk
+/Users/davidmadicosimon1/Downloads/Xamarin/Android-Calculator-master/Calculator/obj/Debug/res/values/strings.xml
+/Users/davidmadicosimon1/Downloads/Xamarin/Android-Calculator-master/Calculator/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/davidmadicosimon1/Downloads/Xamarin/Android-Calculator-master/Calculator/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/davidmadicosimon1/Downloads/Xamarin/Android-Calculator-master/Calculator/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/davidmadicosimon1/Downloads/Xamarin/Android-Calculator-master/Calculator/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/davidmadicosimon1/Downloads/Xamarin/Android-Calculator-master/Calculator/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/davidmadicosimon1/Downloads/Xamarin/Android-Calculator-master/Calculator/obj/Debug/res/layout/calculatorscreen.xml
+/Users/davidmadicosimon1/Downloads/Xamarin/Android-Calculator-master/Calculator/obj/Debug/res/drawable/myshape.xml
+/Users/davidmadicosimon1/Downloads/Xamarin/Android-Calculator-master/Calculator/obj/Debug/res/drawable/mybutton.xml
+/Users/davidmadicosimon1/Downloads/Xamarin/Android-Calculator-master/Calculator/obj/Debug/R.cs.flag
+/Users/davidmadicosimon1/Downloads/Xamarin/Android-Calculator-master/Calculator/bin/Debug/com.companyname.calculator-Signed.apk
+/Users/davidmadicosimon1/Downloads/Xamarin/Android-Calculator-master/Calculator/obj/Debug/uploadflags.txt
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Android-Calculator-master/Calculator/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Android-Calculator-master/Calculator/bin/Debug/Calculator.dll.mdb
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Android-Calculator-master/Calculator/bin/Debug/Calculator.dll
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Android-Calculator-master/Calculator/bin/Debug/com.companyname.calculator.apk
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Android-Calculator-master/Calculator/obj/Debug/android/bin/com.companyname.calculator.apk
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Android-Calculator-master/Calculator/obj/Debug/res/values/strings.xml
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Android-Calculator-master/Calculator/obj/Debug/res/mipmap-hdpi/icon.png
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Android-Calculator-master/Calculator/obj/Debug/res/mipmap-mdpi/icon.png
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Android-Calculator-master/Calculator/obj/Debug/res/mipmap-xhdpi/icon.png
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Android-Calculator-master/Calculator/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Android-Calculator-master/Calculator/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Android-Calculator-master/Calculator/obj/Debug/res/layout/calculatorscreen.xml
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Android-Calculator-master/Calculator/obj/Debug/res/drawable/myshape.xml
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Android-Calculator-master/Calculator/obj/Debug/res/drawable/mybutton.xml
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Android-Calculator-master/Calculator/obj/Debug/R.cs.flag
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Android-Calculator-master/Calculator/bin/Debug/com.companyname.calculator-Signed.apk
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Android-Calculator-master/Calculator/obj/Debug/uploadflags.txt
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Android-Calculator-master/Calculator/obj/Debug/Calculator.dll
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Android-Calculator-master/Calculator/obj/Debug/Calculator.dll.mdb
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Android-Calculator-master/Calculator/bin/Debug/Xamarin.Android.Support.v13.dll
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Android-Calculator-master/Calculator/bin/Debug/Xamarin.Android.Support.v4.dll
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Android-Calculator-master/Calculator/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll

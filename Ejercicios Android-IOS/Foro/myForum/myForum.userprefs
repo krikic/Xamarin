@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{89EBD012-4ED6-4E53-9CCF-05951D6F5D67}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="myForum/PostSystem.cs">
+    <Files>
+      <File FileName="myForum/RegisterSystem.cs" Line="85" Column="31" />
+      <File FileName="myForum/NaviationTab.cs" Line="22" Column="37" />
+      <File FileName="myForum/TopicSystem.cs" Line="119" Column="45" />
+      <File FileName="myForum/ProfileSystem.cs" Line="1" Column="11" />
+      <File FileName="myForum/ForumSystem.cs" Line="51" Column="57" />
+      <File FileName="myForum/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="myForum/PostSystem.cs" Line="60" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.myForum.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2C576BB9-7B7E-483B-98CF-0A4EF4525FB9" />
+</Properties>

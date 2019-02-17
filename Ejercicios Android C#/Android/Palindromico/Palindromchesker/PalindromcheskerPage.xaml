@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage 	xmlns="http://xamarin.com/schemas/2014/forms" 
+				xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+				xmlns:local="clr-namespace:Palindromchesker" 
+				x:Class="Palindromchesker.PalindromcheskerPage"
+				Padding="10"
+
+		>
+	
+  <ContentPage.Content>
+    <StackLayout Margin="0,15,0,0" Spacing="10" HorizontalOptions="Center">
+
+		<Label Text="Vpište nejaký text a program vyhodnotí zda se jedná o palindrom" />
+		<Entry Placeholder="Text  ke kontrole" x:Name="text"/>
+			
+      	<Button Text="Vyhodnotit" Clicked="odeslat"/>
+
+		<Label TextColor="Red" Text="OK" FontSize="18" HorizontalTextAlignment="Center" x:Name="vys"/>
+    </StackLayout>
+
+
+  </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,15 @@
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/AndroidC/Ejemplo_Calculadora/Ejemplo_Calculadora/obj/Debug/MonoAndroid,Version=v4.0.3.AssemblyAttribute.cs
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/AndroidC/Ejemplo_Calculadora/Ejemplo_Calculadora/bin/Debug/Ejemplo_Calculadora.dll.mdb
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/AndroidC/Ejemplo_Calculadora/Ejemplo_Calculadora/bin/Debug/Ejemplo_Calculadora.pdb
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/AndroidC/Ejemplo_Calculadora/Ejemplo_Calculadora/bin/Debug/Ejemplo_Calculadora.dll
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/AndroidC/Ejemplo_Calculadora/Ejemplo_Calculadora/bin/Debug/Ejemplo_Calculadora.Ejemplo_Calculadora.apk
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/AndroidC/Ejemplo_Calculadora/Ejemplo_Calculadora/obj/Debug/android/bin/Ejemplo_Calculadora.Ejemplo_Calculadora.apk
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/AndroidC/Ejemplo_Calculadora/Ejemplo_Calculadora/obj/Debug/res/layout/main.xml
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/AndroidC/Ejemplo_Calculadora/Ejemplo_Calculadora/obj/Debug/res/values/strings.xml
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/AndroidC/Ejemplo_Calculadora/Ejemplo_Calculadora/obj/Debug/res/drawable/icon.png
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/AndroidC/Ejemplo_Calculadora/Ejemplo_Calculadora/obj/Debug/R.cs.flag
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/AndroidC/Ejemplo_Calculadora/Ejemplo_Calculadora/bin/Debug/Ejemplo_Calculadora.Ejemplo_Calculadora-Signed.apk
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/AndroidC/Ejemplo_Calculadora/Ejemplo_Calculadora/obj/Debug/uploadflags.txt
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/AndroidC/Ejemplo_Calculadora/Ejemplo_Calculadora/obj/Debug/Ejemplo_Calculadora.dll
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/AndroidC/Ejemplo_Calculadora/Ejemplo_Calculadora/obj/Debug/Ejemplo_Calculadora.dll.mdb
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/AndroidC/Ejemplo_Calculadora/Ejemplo_Calculadora/obj/Debug/Ejemplo_Calculadora.pdb

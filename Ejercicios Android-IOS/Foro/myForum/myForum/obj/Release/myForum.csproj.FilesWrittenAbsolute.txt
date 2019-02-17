@@ -1,0 +1,8 @@
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android-IOS(dudas)/Foro/myForum/myForum/obj/Release/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android-IOS(dudas)/Foro/myForum/myForum/obj/Release/myForum.App.xaml
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android-IOS(dudas)/Foro/myForum/myForum/obj/Release/myForum.App.xaml.g.cs
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android-IOS(dudas)/Foro/myForum/myForum/bin/Release/myForum.dll
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android-IOS(dudas)/Foro/myForum/myForum/obj/Release/myForum.dll
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android-IOS(dudas)/Foro/myForum/myForum/bin/Release/Xamarin.Forms.Core.dll
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android-IOS(dudas)/Foro/myForum/myForum/bin/Release/Xamarin.Forms.Platform.dll
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android-IOS(dudas)/Foro/myForum/myForum/bin/Release/Xamarin.Forms.Xaml.dll

@@ -1,0 +1,9 @@
+/Users/fhassan/Documents/Xamarin/LetsCalc/LetsCalc/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/fhassan/Documents/Xamarin/LetsCalc/LetsCalc/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/fhassan/Documents/Xamarin/LetsCalc/LetsCalc/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/fhassan/Documents/Xamarin/LetsCalc/LetsCalc/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/fhassan/Documents/Xamarin/LetsCalc/LetsCalc/obj/iPhoneSimulator/Debug/optimized/
+/Users/fhassan/Documents/Xamarin/LetsCalc/LetsCalc/bin/iPhoneSimulator/Debug/LetsCalc.exe.mdb
+/Users/fhassan/Documents/Xamarin/LetsCalc/LetsCalc/bin/iPhoneSimulator/Debug/LetsCalc.exe
+/Users/fhassan/Documents/Xamarin/LetsCalc/LetsCalc/obj/iPhoneSimulator/Debug/LetsCalc.exe
+/Users/fhassan/Documents/Xamarin/LetsCalc/LetsCalc/obj/iPhoneSimulator/Debug/LetsCalc.exe.mdb

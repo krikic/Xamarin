@@ -1,0 +1,11 @@
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios IOS C#/IOS/SQLite IOS Crud/Working-with-Database-using-SQLite-Xamarin.iOS-master/bin/iPhoneSimulator/Release/_25SqliteiOS.exe
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios IOS C#/IOS/SQLite IOS Crud/Working-with-Database-using-SQLite-Xamarin.iOS-master/bin/iPhoneSimulator/Release/_25SqliteiOS.pdb
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios IOS C#/IOS/SQLite IOS Crud/Working-with-Database-using-SQLite-Xamarin.iOS-master/obj/iPhoneSimulator/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios IOS C#/IOS/SQLite IOS Crud/Working-with-Database-using-SQLite-Xamarin.iOS-master/obj/iPhoneSimulator/Release/actool/_PartialAppManifest.items
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios IOS C#/IOS/SQLite IOS Crud/Working-with-Database-using-SQLite-Xamarin.iOS-master/obj/iPhoneSimulator/Release/actool/_BundleResourceWithLogicalName.items
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios IOS C#/IOS/SQLite IOS Crud/Working-with-Database-using-SQLite-Xamarin.iOS-master/obj/iPhoneSimulator/Release/coremlc/_PartialAppManifest.items
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios IOS C#/IOS/SQLite IOS Crud/Working-with-Database-using-SQLite-Xamarin.iOS-master/obj/iPhoneSimulator/Release/coremlc/_BundleResourceWithLogicalName.items
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios IOS C#/IOS/SQLite IOS Crud/Working-with-Database-using-SQLite-Xamarin.iOS-master/obj/iPhoneSimulator/Release/optimized/
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios IOS C#/IOS/SQLite IOS Crud/Working-with-Database-using-SQLite-Xamarin.iOS-master/obj/iPhoneSimulator/Release/_25SqliteiOS.csproj.CoreCompileInputs.cache
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios IOS C#/IOS/SQLite IOS Crud/Working-with-Database-using-SQLite-Xamarin.iOS-master/obj/iPhoneSimulator/Release/_25SqliteiOS.exe
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios IOS C#/IOS/SQLite IOS Crud/Working-with-Database-using-SQLite-Xamarin.iOS-master/obj/iPhoneSimulator/Release/_25SqliteiOS.pdb

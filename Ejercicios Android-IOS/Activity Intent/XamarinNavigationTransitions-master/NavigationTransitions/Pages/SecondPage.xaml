@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage
+		xmlns="http://xamarin.com/schemas/2014/forms"
+		xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+		BackgroundColor="Green"
+		x:Class="NavigationTransitions.SecondPage">
+	<ContentPage.Content>
+		<StackLayout>
+			<Entry x:Name="txtValor1" Placeholder="Valor 2" HorizontalOptions="Fill"></Entry>
+    		<Entry x:Name="txtValor2" Placeholder="Valor 1" HorizontalOptions="Fill"></Entry>
+    		<Entry x:Name="txtResultado" Placeholder="Resultado"></Entry>
+   		 <Button x:Name="btnCalcular" Text="Calcular" Clicked="Calculated"></Button>
+			<Button Text="Go Back" Command="{Binding NavigateBack}" />
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

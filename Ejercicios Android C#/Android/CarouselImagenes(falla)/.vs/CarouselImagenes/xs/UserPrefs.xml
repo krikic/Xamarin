@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A0A0D26F-04F3-41E0-AA79-9A67A71D774E}|Default">
+  <MonoDevelop.Ide.ItemProperties.CarouselImagenes AndroidDesignerPreferredDevice="Nexus 4" FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarouselImagenes/MainActivity.cs">
+    <Files>
+      <File FileName="CarouselImagenes/MainActivity.cs" Line="19" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

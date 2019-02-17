@@ -1,0 +1,7 @@
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/GridView 2/App.GridViewImagem/obj/Release/android/assets/App.GridViewImagem.dll
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/GridView 2/App.GridViewImagem/obj/Release/android/assets/Java.Interop.dll
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/GridView 2/App.GridViewImagem/obj/Release/android/assets/Mono.Android.dll
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/GridView 2/App.GridViewImagem/obj/Release/android/assets/mscorlib.dll
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/GridView 2/App.GridViewImagem/obj/Release/android/assets/System.Core.dll
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/GridView 2/App.GridViewImagem/obj/Release/android/assets/System.dll
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/GridView 2/App.GridViewImagem/obj/Release/android/assets/System.Runtime.Serialization.dll

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ShoppingCart.Views.CategoriesListPage"
+             xmlns:local="clr-namespace:ShoppingCart;assembly=ShoppingCart"
+             xmlns:b="clr-namespace:Xamarin.Behaviors;assembly=Xamarin.Behaviors"
+             BindingContext="{x:Static local:App.CategoriesListViewModel}"
+             Title="Browse"
+             BackgroundColor="White">
+
+  <ContentPage.ToolbarItems>
+    <ToolbarItem Name="Log Out" Command="{Binding LogOut}"  Order="Primary" Priority="0">
+      <ToolbarItem.Icon>
+        <OnPlatform x:TypeArguments="FileImageSource"
+                    WinPhone="Assets/Logout.png"
+                    Android="ic_action_logout.png" />
+      </ToolbarItem.Icon>
+    </ToolbarItem>
+
+    <ToolbarItem Name="About" Command="{Binding AboutCommand}"  Order="Secondary" Priority="0"/>
+  </ContentPage.ToolbarItems>
+
+  <StackLayout VerticalOptions="FillAndExpand" Padding="50">
+    <StackLayout Orientation="Horizontal">
+      <Entry Text="{Binding SearchTerm}"
+             Placeholder="Search" />
+      <Button Text ="Search"
+        Command="{Binding SearchCommand}" />
+      <Button Text ="Scan"
+        Command="{Binding ScanCommand}" />
+    </StackLayout>
+
+    <Frame>
+      <Label Text="Categories"
+        HorizontalOptions="Center"
+        Font="Bold,Large">
+        <Label.TextColor>
+          <OnPlatform x:TypeArguments="Color"
+             iOS="Accent"
+             WinPhone="Accent"
+             Android="#afcca6" />
+        </Label.TextColor>
+      </Label>
+    </Frame>
+
+    <ListView ItemsSource="{Binding Categories.Result}">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <TextCell Text="{Binding Name}"
+                    Detail="{Binding Count}">
+            <b:Interaction.Behaviors>
+              <b:BehaviorCollection>
+                <b:EventToCommand EventName="Tapped"
+                                  Command="{Binding NavigateToCategory}"
+                                  CommandParameter="{Binding Category}" />
+              </b:BehaviorCollection>
+            </b:Interaction.Behaviors>
+          </TextCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+  </StackLayout>
+</ContentPage>

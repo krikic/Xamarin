@@ -1,0 +1,13 @@
+C:\Users\Maico\Documents\Projects\Ejemplo_Calculadora\Ejemplo_Calculadora\bin\Debug\Ejemplo_Calculadora.dll
+C:\Users\Maico\Documents\Projects\Ejemplo_Calculadora\Ejemplo_Calculadora\bin\Debug\Ejemplo_Calculadora.pdb
+C:\Users\Maico\Documents\Projects\Ejemplo_Calculadora\Ejemplo_Calculadora\bin\Debug\Ejemplo_Calculadora.dll.mdb
+C:\Users\Maico\Documents\Projects\Ejemplo_Calculadora\Ejemplo_Calculadora\bin\Debug\Ejemplo_Calculadora.Ejemplo_Calculadora.apk
+C:\Users\Maico\Documents\Projects\Ejemplo_Calculadora\Ejemplo_Calculadora\bin\Debug\Ejemplo_Calculadora.Ejemplo_Calculadora-Signed.apk
+C:\Users\Maico\Documents\Projects\Ejemplo_Calculadora\Ejemplo_Calculadora\obj\Debug\Ejemplo_Calculadora.dll
+C:\Users\Maico\Documents\Projects\Ejemplo_Calculadora\Ejemplo_Calculadora\obj\Debug\Ejemplo_Calculadora.pdb
+C:\Users\Maico\Documents\Projects\Ejemplo_Calculadora\Ejemplo_Calculadora\obj\Debug\android\bin\Ejemplo_Calculadora.Ejemplo_Calculadora.apk
+C:\Users\Maico\Documents\Projects\Ejemplo_Calculadora\Ejemplo_Calculadora\obj\Debug\res\layout\main.xml
+C:\Users\Maico\Documents\Projects\Ejemplo_Calculadora\Ejemplo_Calculadora\obj\Debug\res\values\strings.xml
+C:\Users\Maico\Documents\Projects\Ejemplo_Calculadora\Ejemplo_Calculadora\obj\Debug\res\drawable\icon.png
+C:\Users\Maico\Documents\Projects\Ejemplo_Calculadora\Ejemplo_Calculadora\obj\Debug\R.cs.flag
+C:\Users\Maico\Documents\Projects\Ejemplo_Calculadora\Ejemplo_Calculadora\obj\Debug\uploadflags.txt

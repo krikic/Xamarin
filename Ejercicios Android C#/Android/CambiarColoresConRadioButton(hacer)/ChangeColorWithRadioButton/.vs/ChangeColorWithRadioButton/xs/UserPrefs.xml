@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E1D2EF6F-733D-40AB-B70A-6FF4903422C3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChangeColorWithRadioButton/MainActivity.cs">
+    <Files>
+      <File FileName="ChangeColorWithRadioButton/MainActivity.cs" Line="24" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ChangeColorWithRadioButton FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

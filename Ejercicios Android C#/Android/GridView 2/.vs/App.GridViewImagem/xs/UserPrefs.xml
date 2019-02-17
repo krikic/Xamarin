@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{55FE9B57-F1D4-4B33-9911-C03F706AD0B5}|Default">
+  <MonoDevelop.Ide.ItemProperties.App.GridViewImagem PreferredExecutionTarget="Android.dispositivo_2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="App.GridViewImagem/MainActivity.cs">
+    <Files>
+      <File FileName="App.GridViewImagem/Bandeira.cs" Line="1" Column="1" />
+      <File FileName="App.GridViewImagem/BandeiraAdapter.cs" Line="60" Column="2" />
+      <File FileName="App.GridViewImagem/MainActivity.cs" Line="65" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,7 @@
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios IOS C#/IOS/SQLite IOS Crud/Working-with-Database-using-SQLite-Xamarin.iOS-master/bin/iPhoneSimulator/Release/_25SqliteiOS.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.13/lib/mono/Xamarin.iOS/mscorlib.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.13/lib/mono/Xamarin.iOS/System.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.13/lib/mono/Xamarin.iOS/Mono.Security.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.13/lib/mono/Xamarin.iOS/System.Xml.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.13/lib/mono/Xamarin.iOS/System.Core.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.13/lib/mono/Xamarin.iOS/../../32bits/Xamarin.iOS.dll

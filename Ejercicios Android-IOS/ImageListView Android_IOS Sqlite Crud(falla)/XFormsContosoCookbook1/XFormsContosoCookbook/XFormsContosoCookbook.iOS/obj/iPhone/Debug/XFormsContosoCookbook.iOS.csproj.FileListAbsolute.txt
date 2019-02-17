@@ -1,0 +1,70 @@
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\XFormsContosoCookbookiOS.exe
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\XFormsContosoCookbookiOS.pdb
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\XFormsContosoCookbook.dll
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\XFormsContosoCookbook.pdb
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\XFormsContosoCookbook.dll.mdb
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\Newtonsoft.Json.xml
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\XFormsContosoCookbook.iOS.csprojResolveAssemblyReference.cache
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\XFormsContosoCookbookiOS.exe
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\XFormsContosoCookbookiOS.pdb
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\Info-8.0+.plist
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\Info.plist
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h.nib\objects-8.0+.nib
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h.nib\objects.nib
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h.nib\runtime.nib
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw.nib\objects-8.0+.nib
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw.nib\objects.nib
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw.nib\runtime.nib
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\Default-568h@2x.png
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\Default-Portrait.png
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\Default-Portrait@2x.png
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\Default.png
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\Default@2x.png
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\Icon-60@2x.png
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\Icon-60@3x.png
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\Icon-76.png
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\Icon-76@2x.png
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\Icon-Small-40.png
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\Icon-Small-40@2x.png
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\Icon-Small-40@3x.png
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\Icon-Small.png
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\Icon-Small@2x.png
+C:\Users\Jeff\documents\visual studio 2015\Projects\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\Icon-Small@3x.png
+C:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\XFormsContosoCookbookiOS.exe
+C:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\XFormsContosoCookbookiOS.pdb
+C:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\XFormsContosoCookbook.dll
+C:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\XFormsContosoCookbook.pdb
+C:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\XFormsContosoCookbook.dll.mdb
+C:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+C:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+C:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\Newtonsoft.Json.xml
+C:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\
+C:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\XFormsContosoCookbook.iOS.csprojResolveAssemblyReference.cache
+C:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\XFormsContosoCookbookiOS.exe
+C:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\XFormsContosoCookbookiOS.pdb
+D:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\XFormsContosoCookbookiOS.exe
+D:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\XFormsContosoCookbookiOS.pdb
+D:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\XFormsContosoCookbook.dll
+D:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+D:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\XFormsContosoCookbook.pdb
+D:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\XFormsContosoCookbook.dll.mdb
+D:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+D:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+D:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\bin\iPhone\Debug\Newtonsoft.Json.xml
+D:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\
+D:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\XFormsContosoCookbook.iOS.csprojResolveAssemblyReference.cache
+D:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\XFormsContosoCookbookiOS.exe
+D:\Samples\Xamarin\XFormsContosoCookbook1\XFormsContosoCookbook\XFormsContosoCookbook.iOS\obj\iPhone\Debug\XFormsContosoCookbookiOS.pdb

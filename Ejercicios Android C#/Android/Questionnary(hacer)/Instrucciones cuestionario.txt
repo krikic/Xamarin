@@ -1,0 +1,14 @@
+Instrucciones cuestionario
+--------------------------
+1.El proyecto se debe componer de
+un Main Activity con dos botones(uno para ir a cada cuestionario)
+,es decir FirstActivity para sistema de votos1 y Second Activity
+para sistema de votos2.
+
+2.El primer cuestionario tiene opcion de radiobutton y una vez que
+hayas votado sale un bar chart  con los resultados.
+
+2.El segundo cuestionario tiene opcion de radiobutton y una vez que
+hayas votado sale un pie chart  con los resultados.
+
+

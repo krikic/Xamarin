@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{3ABCFFA2-CC2E-4961-9355-A47231BD5DB4}|Default">
+  <MonoDevelop.Ide.ItemProperties.Calculator AndroidDesignerPreferredTheme="Theme.AppCompat.Light.DarkActionBar" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.dispositivo_2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/MainCalculator.cs">
+    <Files>
+      <File FileName="Calculator/MainCalculator.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

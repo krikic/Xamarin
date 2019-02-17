@@ -1,0 +1,9 @@
+/Volumes/MAXTOR/Copia David/FP/2curso/Processos,Fils y Serveis+visualstudio/Xamarin(dudas)/Ejercicios IOS C#/IOS/Calculadora Basica/Xamarin-master/LetsCalc/LetsCalc/bin/iPhoneSimulator/Debug/LetsCalc.exe
+/Volumes/MAXTOR/Copia David/FP/2curso/Processos,Fils y Serveis+visualstudio/Xamarin(dudas)/Ejercicios IOS C#/IOS/Calculadora Basica/Xamarin-master/LetsCalc/LetsCalc/bin/iPhoneSimulator/Debug/LetsCalc.pdb
+/Volumes/MAXTOR/Copia David/FP/2curso/Processos,Fils y Serveis+visualstudio/Xamarin(dudas)/Ejercicios IOS C#/IOS/Calculadora Basica/Xamarin-master/LetsCalc/LetsCalc/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Volumes/MAXTOR/Copia David/FP/2curso/Processos,Fils y Serveis+visualstudio/Xamarin(dudas)/Ejercicios IOS C#/IOS/Calculadora Basica/Xamarin-master/LetsCalc/LetsCalc/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Volumes/MAXTOR/Copia David/FP/2curso/Processos,Fils y Serveis+visualstudio/Xamarin(dudas)/Ejercicios IOS C#/IOS/Calculadora Basica/Xamarin-master/LetsCalc/LetsCalc/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Volumes/MAXTOR/Copia David/FP/2curso/Processos,Fils y Serveis+visualstudio/Xamarin(dudas)/Ejercicios IOS C#/IOS/Calculadora Basica/Xamarin-master/LetsCalc/LetsCalc/obj/iPhoneSimulator/Debug/optimized/
+/Volumes/MAXTOR/Copia David/FP/2curso/Processos,Fils y Serveis+visualstudio/Xamarin(dudas)/Ejercicios IOS C#/IOS/Calculadora Basica/Xamarin-master/LetsCalc/LetsCalc/obj/iPhoneSimulator/Debug/LetsCalc.csproj.CoreCompileInputs.cache
+/Volumes/MAXTOR/Copia David/FP/2curso/Processos,Fils y Serveis+visualstudio/Xamarin(dudas)/Ejercicios IOS C#/IOS/Calculadora Basica/Xamarin-master/LetsCalc/LetsCalc/obj/iPhoneSimulator/Debug/LetsCalc.exe
+/Volumes/MAXTOR/Copia David/FP/2curso/Processos,Fils y Serveis+visualstudio/Xamarin(dudas)/Ejercicios IOS C#/IOS/Calculadora Basica/Xamarin-master/LetsCalc/LetsCalc/obj/iPhoneSimulator/Debug/LetsCalc.pdb

@@ -1,0 +1,33 @@
+#extend("base")
+
+#export("content") {
+		<h1 class="forum-name"><a href="/">#(forum.name)</a> <sep><small>•</small></sep> <span class="forum-descrip">#(forum.descrip)</span></h1>
+
+		#loop(posts, "post") {
+		<latest>
+			<icon>
+				#if(post.answered) { <img src="/images/answerok.png"/> } ##else() {
+					#equal(post.type, "0") { <img src="/images/message.png"/> }
+					#equal(post.type, "1") { <img src="/images/answerno.png"/> }
+					#equal(post.type, "2") { <img src="/images/answerno.png"/> }
+				}
+			</icon>
+			<item>
+				<post><a href="/forum/#(post.dirname)/post/#(post.postid)">#(post.title)</a></post>
+				<info>
+					<forum><a href="/forum/#(post.dirname)">#(post.name)</a></forum>
+					<sep>•</sep> by <user><a href="/user/#(post.nick)">#(post.nick)</a></user> 
+					<sep>•</sep> <time>#timeago(post.date)</time> 
+					<sep>•</sep> <span>#plural(post.views, "view")</span> 
+					<sep>•</sep> <span>#plural(post.replies, "reply", "replies")</span>
+				</info>
+			</item>
+		</latest>
+		}
+
+		#equal(paginate, "true") {
+		<nav>
+			<a href="/page/1" #equal(page, "1") { class="page-off" } >&laquo;</a><a href="/page/1" #equal(page, "1") { class="page-on" } >1</a><a href="/page/2" #equal(page, "2") { class="page-on" } >2</a><a href="/page/3" #equal(page, "3") { class="page-on" } >3</a><a href="/page/4" #equal(page, "4") { class="page-on" } >4</a><a href="/page/5" #equal(page, "5") { class="page-on" } >5</a><a href="/page/6" #equal(page, "6") { class="page-on" } >6</a><a href="/page/7" #equal(page, "7") { class="page-on" } >7</a><a href="/page/8" #equal(page, "8") { class="page-on" } >8</a><a href="/page/9" #equal(page, "9") { class="page-on" } >9</a><a href="/page/9" #equal(page, "9") { class="page-off" } >&raquo;</a>
+		</nav>
+		}
+}

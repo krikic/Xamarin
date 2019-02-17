@@ -1,0 +1,16 @@
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/Xamarin.Android-Examples-master/SQLiteORMExample/SQLiteORMExample/obj/Debug/android/assets/SQLiteORMExample.dll
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/Xamarin.Android-Examples-master/SQLiteORMExample/SQLiteORMExample/obj/Debug/android/assets/Java.Interop.dll
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/Xamarin.Android-Examples-master/SQLiteORMExample/SQLiteORMExample/obj/Debug/android/assets/Mono.Android.dll
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/Xamarin.Android-Examples-master/SQLiteORMExample/SQLiteORMExample/obj/Debug/android/assets/Mono.Data.Sqlite.dll
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/Xamarin.Android-Examples-master/SQLiteORMExample/SQLiteORMExample/obj/Debug/android/assets/mscorlib.dll
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/Xamarin.Android-Examples-master/SQLiteORMExample/SQLiteORMExample/obj/Debug/android/assets/Newtonsoft.Json.dll
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/Xamarin.Android-Examples-master/SQLiteORMExample/SQLiteORMExample/obj/Debug/android/assets/System.Core.dll
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/Xamarin.Android-Examples-master/SQLiteORMExample/SQLiteORMExample/obj/Debug/android/assets/System.dll
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/Xamarin.Android-Examples-master/SQLiteORMExample/SQLiteORMExample/obj/Debug/android/assets/System.Xml.dll
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/Xamarin.Android-Examples-master/SQLiteORMExample/SQLiteORMExample/obj/Debug/android/assets/System.Net.Http.dll
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/Xamarin.Android-Examples-master/SQLiteORMExample/SQLiteORMExample/obj/Debug/android/assets/System.Runtime.Serialization.dll
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/Xamarin.Android-Examples-master/SQLiteORMExample/SQLiteORMExample/obj/Debug/android/assets/System.ServiceModel.Internals.dll
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/Xamarin.Android-Examples-master/SQLiteORMExample/SQLiteORMExample/obj/Debug/android/assets/System.Data.dll
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/Xamarin.Android-Examples-master/SQLiteORMExample/SQLiteORMExample/obj/Debug/android/assets/System.Numerics.dll
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/Xamarin.Android-Examples-master/SQLiteORMExample/SQLiteORMExample/obj/Debug/android/assets/System.Transactions.dll
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/Xamarin.Android-Examples-master/SQLiteORMExample/SQLiteORMExample/obj/Debug/android/assets/Mono.Security.dll

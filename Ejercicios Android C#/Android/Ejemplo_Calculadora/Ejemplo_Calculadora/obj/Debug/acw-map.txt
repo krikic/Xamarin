@@ -1,0 +1,4 @@
+Ejemplo_Calculadora.Activity1, Ejemplo_Calculadora;md579a0071f92eeb1eb7f2a6bf2f5cdc297.Activity1
+Ejemplo_Calculadora.Activity1, Ejemplo_Calculadora, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md579a0071f92eeb1eb7f2a6bf2f5cdc297.Activity1
+Ejemplo_Calculadora.Activity1;md579a0071f92eeb1eb7f2a6bf2f5cdc297.Activity1
+ejemplo_calculadora.Activity1;md579a0071f92eeb1eb7f2a6bf2f5cdc297.Activity1

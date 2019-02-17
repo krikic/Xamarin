@@ -1,0 +1,5 @@
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/CarouselImagenes/CarouselImagenes/obj/Debug/CarouselImagenes.nuget.stamp
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/CarouselImagenes/CarouselImagenes/obj/Debug/MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/CarouselImagenes/CarouselImagenes/obj/Debug/CarouselImagenes.csprojAssemblyReference.cache
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/CarouselImagenes/CarouselImagenes/obj/Debug/libraryimports.cache.stamp
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/CarouselImagenes/CarouselImagenes/obj/Debug/res.flag

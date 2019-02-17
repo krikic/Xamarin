@@ -1,0 +1,20 @@
+"--cache=/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios IOS C#/IOS/CollectionView/PhotoHandoff/obj/iPhoneSimulator/Release/mtouch-cache"
+"--sim=/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios IOS C#/IOS/CollectionView/PhotoHandoff/bin/iPhoneSimulator/Release/PhotoHandoff.app"
+--executable=PhotoHandoff
+--nolink
+--sdkroot=/Applications/Xcode.app/Contents/Developer
+--sdk=12.1
+--targetver=8.0
+--aot-options=-O=-float32
+--http-message-handler=HttpClientHandler
+--abi=i386,x86_64
+"--symbollist=/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios IOS C#/IOS/CollectionView/PhotoHandoff/obj/iPhoneSimulator/Release/mtouch-symbols.list"
+--dsym=no
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll
+--target-framework=Xamarin.iOS,v1.0
+"--root-assembly=/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios IOS C#/IOS/CollectionView/PhotoHandoff/bin/iPhoneSimulator/Release/PhotoHandoff.exe"
+

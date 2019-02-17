@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+x:Class="AddressBook.ContactPage" xmlns:local="clr-namespace:AddressBook;assembly=AddressBook"> 
+ <ContentPage.ToolbarItems>
+    <ToolbarItem Text="Add" Command="{Binding AddContactCommand}"/>
+  </ContentPage.ToolbarItems>
+  <Grid Padding="20" RowSpacing="1" BackgroundColor="White" ColumnSpacing="1"> 
+
+		<Grid.RowDefinitions>
+			<RowDefinition Height="*" />
+			<RowDefinition Height="*" />
+			<RowDefinition Height="*" />
+			<RowDefinition Height="*" />
+			<RowDefinition Height="*" /> 
+		</Grid.RowDefinitions>
+		<Grid.ColumnDefinitions>
+	      	<ColumnDefinition Width="*" />
+	      	<ColumnDefinition Width="*" /> 
+	   	</Grid.ColumnDefinitions>
+
+	   	<!-- Column 1 -->
+	   	<Label Grid.Row="0" Grid.Column="0" HeightRequest="25"  VerticalOptions="CenterAndExpand"
+		Text="First Name:"  TextColor="#0d3653" HorizontalOptions="CenterAndExpand"/>   
+		<Label Grid.Row="1" Grid.Column="0" HeightRequest="25" VerticalOptions="CenterAndExpand"
+		Text="Last Name:"   TextColor="#0d3653" HorizontalOptions="CenterAndExpand"/>   
+		<Label Grid.Row="2" Grid.Column="0" HeightRequest="25" VerticalOptions="CenterAndExpand"
+		Text="Mobile Number:" TextColor="#0d3653" HorizontalOptions="CenterAndExpand"/>   
+		<Label Grid.Row="3" Grid.Column="0" HeightRequest="25" VerticalOptions="CenterAndExpand"
+		Text="Home Number:" TextColor="#0d3653" HorizontalOptions="CenterAndExpand"/>   
+		<Label Grid.Row="4" Grid.Column="0" HeightRequest="25" VerticalOptions="CenterAndExpand"
+		HorizontalOptions="CenterAndExpand" Text="Notes:" TextColor="#0d3653" />   
+
+
+		<!-- Column 2 -->
+		<Entry Grid.Row="0" Grid.Column="1" HeightRequest="40" VerticalOptions="Center"
+		Text="{Binding FirstName}" TextColor="#0d3653" BackgroundColor="#d7e6ed" />   
+		<Entry Grid.Row="1" Grid.Column="1" HeightRequest="40" VerticalOptions="Center"
+		Text="{Binding LastName}" TextColor="#0d3653" BackgroundColor="#d7e6ed"/>   
+		<Entry Grid.Row="2" Grid.Column="1" HeightRequest="40" VerticalOptions="Center"
+		Text="{Binding MobNumber}" TextColor="#0d3653" BackgroundColor="#d7e6ed"/>   
+		<Entry Grid.Row="3" Grid.Column="1" HeightRequest="40" VerticalOptions="Center"
+		Text="{Binding HomeNumber}" TextColor="#0d3653" BackgroundColor="#d7e6ed"/>   
+		<Entry Grid.Row="4" Grid.Column="1"   HeightRequest="40" VerticalOptions="Center"
+		Text="{Binding Notes}" TextColor="#0d3653" BackgroundColor="#d7e6ed"/>   
+
+	   	</Grid>
+</ContentPage>

@@ -1,0 +1,179 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Swift, PHP & MySQL. User Sign Up, Sign In, Sign out</title>
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="assets/blueprint-css/screen.css" type="text/css" media="screen, projection">
+	<link rel="stylesheet" href="assets/blueprint-css/print.css" type="text/css" media="print">
+	<!--[if lt IE 8]><link rel="stylesheet" href="assets/blueprint-css/ie.css" type="text/css" media="screen, projection"><![endif]-->
+	<link rel="stylesheet" href="assets/blueprint-css/plugins/fancy-type/screen.css" type="text/css" media="screen, projection">
+	<style type="text/css" media="screen">
+		p, table, hr, .box { margin-bottom:25px; }
+		.box p { margin-bottom:10px; }
+	</style>
+</head>
+
+
+<body style="background-color:#f6f5f6;">
+	<div class="container">
+	
+<h3 class="center alt">&ldquo;Swift, PHP & MySQL.&rdquo; Documentation by &ldquo;Template masalan&rdquo; v1.0</h3>		
+		<hr>
+		
+		<h2 class="center">&ldquo;Swift, PHP & MySQL. User Sign Up, Sign In, Sign out and more &rdquo;</h2>
+		
+		<div class="borderTop">
+			<div class="span-6 colborder info prepend-1">
+				<p class="prepend-top">
+					<strong>
+					Created: 18/10/2015<br>
+					By: Masalan<br>
+					Email: <a href="mailto:alainserge@163.com">alainserge@163.com</a>
+					</strong>
+				</p>
+			</div><!-- end div .span-6 -->		
+	
+			<div class="span-12 last">
+				<p class="prepend-top append-0">Thank you for purchasing my starte kit. If you have any questions that are beyond the scope of this help file, please feel free to email via my user page contact form <a href="http://themeforest.net/user/masalan">here</a>. Thanks so much!</p>
+			</div>
+		</div><!-- end div .borderTop -->
+		
+		<hr>
+		
+		<h2 id="toc" class="alt">Table of Contents</h2>
+		<ol class="alpha">
+			<li><a href="#ios">iOS Project</a></li>
+			<li><a href="#php">PHP Code</a></li>
+			<li><a href="#sql">SQL DB</a></li>
+           <li><a href="#ann">ANNEXES</a></li> 
+            
+		</ol>
+		
+		
+		<hr>
+		
+		<h3 id="ios"><strong>A) iOS Project</strong> - <a href="#toc">top</a></h3>
+		
+		<p>This project include create User Sign Up, Sign In, Sign out, Password reset, Email verification and more with Swift, PHP & MySQL.</p>
+		
+		<ol>
+			
+ <h3 style="color:#F00;" id="ios"><strong>Step 1</strong> </h3>
+            
+            <li >Open your project on <b>XCODE 7+</b> and follow steps on <b>photos down</b><br/>
+              <br/>
+	<img  src="assets/images/4.jpg"/>
+			</li></b><br/>
+            <h3 style="color:#F00;" id="ios"><strong>Step 2</strong> </h3>
+            
+          <li>XCODE 7+</b> and follow steps on <b>photo down</b>
+          <ol>
+          <li>Main.storyboard <b>--></b></li>
+          <li>Controller view <b>--></b></li>
+          <li>Automatic <b>--></b></li>
+          </ol>
+          <br/>
+              <br/>
+	<img  src="assets/images/6.jpg" width="800" height="598"/>
+			</li><br><br>
+            
+            <h3 style="color:#F00;" id="ios"><strong>Step 3</strong> </h3>
+            
+          <li style="text-align:center;">Compare your configuration with mine on <b>XCODE 7+</b> and follow steps on <b>photo down</b><br/>
+              <br/>
+	<img  src="assets/images/5.jpg" width="600" height="598" />
+			</li>
+		</ol>
+		
+		<hr>
+		
+		<h3 id="php"><strong>B) </strong>PHP code - <a href="#toc">top</a></h3>
+		
+			<ol>
+            <h3 style="color:#F00;" id="ios"><strong>Step 1</strong> </h3>
+				<li>Upload all files into the "<b>PHP code</b>" folder on your server, don`t need htaccess</li>
+				<li>Set your 3 files 
+                <ol>
+                <li>db/Conn.php</li>
+                <li>inc/imageUpload.php</li>
+                <li>scripts/imageUpload.php</li>
+                
+                <li>inc/emailMessage.html</li>
+                <li>inc/passwordRessetMessage.html</li>
+                
+                </ol>
+				<br/>
+				<img src="assets/images/7.jpg"/>	
+				</li><br><br>
+                 <h3 style="color:#F00;" id="ios"><strong>Step 2</strong> </h3>
+<li>Open the <b>SwiftCourse2.ini</b> and fill<ol>
+<li>dbuser = user</li>
+<li>dbpassword = password</li>
+<li>dbname = iinxam6g_iosuser</li>
+<li>dbhost = localhost</li>
+</ol>
+
+Don`t add anymore caracteres insides.
+				<br><br>
+				<img src="assets/images/3.png"/>
+				</li>
+			</ol>
+	
+    
+    
+    <hr>
+		
+		<h3 id="sql"><strong>C) Set up permission Folders </strong> - <a href="#toc">top</a></h3>
+		<ol>
+<li>Classes/  <b>  CHMOD 0777 or 0755</b> </li>
+<li> db/    <b>  CHMOD 0777 or 0755</b> </li>
+<li>inc/     <b>  CHMOD 0777 or 0755</b> </li>
+<li>profile-pictures/ <b> CHMOD 0777</b>  </li>
+<li>scripts/ <b> CHMOD 0777 or 0755</b> </li>
+<li>SwiftCourse2.ini <b>  CHMOD 0777 or 0755</b> </li>
+</ol>
+	<br>
+		
+		<hr>
+		
+		<h3 id="sql"><strong>d) SQL DB</strong> - <a href="#toc">top</a></h3>
+		
+		<p>Import the "<b>db.sql</b>" file in your db (this file contain the table structures)</p>
+		<br><br>
+				<img src="assets/images/1.png"/><br><br>
+                <hr>
+		
+		<h3 id="sql"><strong>D) ANNEXE</strong> - <a href="#ann">top</a></h3><br>
+    
+    
+    
+    <br/>
+				<img src="assets/images/7.jpg"/>	
+				</li><br><br>
+                 <h3 style="color:#F00;" id="ios"><strong>Source Code</strong> </h3>
+<ol>
+<li><a href="https://developer.apple.com/swift/" target="new">Swift.</a></li>
+<li><a href="http://php.net/" target="new">PHP.</a></li>
+<li><a href="https://github.com/jdg/MBProgressHUD/" target="new">MBProgressHUD is an iOS drop-in class that displays a translucent HUD.</a></li>
+
+</ol>
+
+				<br><br>
+				<div style="text-align:center;"><img src="http://global.bing.com/th?id=Af3c7b6088c10bccdc078356a6ffe85ac&w=110&h=110&c=7&rs=1&qlt=80&pcl=f9f9f9&cdv=1&pid=16.1" width="80" height="80"/><img src="http://global.bing.com/th?id=Af8eacb0ddd8936cfc27926f0c1058243&w=110&h=110&c=7&rs=1&qlt=80&pcl=f9f9f9&cdv=1&pid=16.1" width="80" height="80"/><img src="http://global.bing.com/th?id=Af3c7b6088c10bccdc078356a6ffe85ac&w=110&h=110&c=7&rs=1&qlt=80&pcl=f9f9f9&cdv=1&pid=16.1" width="80" height="80"/></div>
+				</li>
+			</ol>
+	
+		<hr>    
+   <p></p>
+        
+		<hr>
+		<p>Once again, thank you so much for purchasing this starte kit. As I said at the beginning, I'd be glad to help you if you have any questions relating to this theme. No guarantees, but I'll do my best to assist. If you have a more general question relating to the codes on CodeCanyon, you might consider visiting the forums and asking your question in the relative section.</p> 
+		
+		<p class="append-bottom alt large"><strong>Masalan</strong></p>
+		<p><a href="#toc">Go To Table of Contents</a></p>
+		
+		<hr class="space">
+</div><!-- end div .container -->
+</body>
+</html>

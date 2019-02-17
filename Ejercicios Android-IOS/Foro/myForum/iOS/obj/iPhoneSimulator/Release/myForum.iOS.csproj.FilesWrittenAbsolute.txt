@@ -1,0 +1,14 @@
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android-IOS(dudas)/Foro/myForum/iOS/obj/iPhoneSimulator/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android-IOS(dudas)/Foro/myForum/iOS/obj/iPhoneSimulator/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android-IOS(dudas)/Foro/myForum/iOS/obj/iPhoneSimulator/Release/actool/_PartialAppManifest.items
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android-IOS(dudas)/Foro/myForum/iOS/obj/iPhoneSimulator/Release/actool/_BundleResourceWithLogicalName.items
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android-IOS(dudas)/Foro/myForum/iOS/obj/iPhoneSimulator/Release/optimized/
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android-IOS(dudas)/Foro/myForum/iOS/bin/iPhoneSimulator/Release/myForum.iOS.pdb
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android-IOS(dudas)/Foro/myForum/iOS/bin/iPhoneSimulator/Release/myForum.iOS.exe
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android-IOS(dudas)/Foro/myForum/iOS/obj/iPhoneSimulator/Release/myForum.iOS.exe
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android-IOS(dudas)/Foro/myForum/iOS/obj/iPhoneSimulator/Release/myForum.iOS.pdb
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android-IOS(dudas)/Foro/myForum/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Core.dll
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android-IOS(dudas)/Foro/myForum/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Platform.dll
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android-IOS(dudas)/Foro/myForum/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Platform.iOS.dll
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android-IOS(dudas)/Foro/myForum/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Xaml.dll
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android-IOS(dudas)/Foro/myForum/iOS/bin/iPhoneSimulator/Release/myForum.dll

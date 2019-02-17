@@ -1,0 +1,20 @@
+/Users/davidmadicosimon1/Downloads/Xamarin /CountWord/obj/Debug/MonoAndroid,Version=v7.0.AssemblyAttribute.cs
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountWord(falla)/obj/Debug/MonoAndroid,Version=v7.0.AssemblyAttribute.cs
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountWord(falla)/bin/Debug/CountWord.dll.mdb
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountWord(falla)/bin/Debug/CountWord.dll
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountWord(falla)/bin/Debug/com.companyname.countword.apk
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountWord(falla)/obj/Debug/android/bin/com.companyname.countword.apk
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountWord(falla)/obj/Debug/res/layout/main.xml
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountWord(falla)/obj/Debug/res/values/strings.xml
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountWord(falla)/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountWord(falla)/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountWord(falla)/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountWord(falla)/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountWord(falla)/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountWord(falla)/obj/Debug/R.cs.flag
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountWord(falla)/bin/Debug/com.companyname.countword-Signed.apk
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountWord(falla)/obj/Debug/uploadflags.txt
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountWord(falla)/obj/Debug/CountWord.dll
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountWord(falla)/obj/Debug/CountWord.dll.mdb
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountWord(falla)/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountWord(falla)/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll

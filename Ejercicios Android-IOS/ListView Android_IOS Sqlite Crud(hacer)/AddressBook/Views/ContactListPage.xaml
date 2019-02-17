@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+x:Class="AddressBook.ContactListPage"
+xmlns:local="clr-namespace:AddressBook;assembly=AddressBook">  
+<ContentPage.ToolbarItems>
+	<ToolbarItem Text="New Contact" Command="{Binding OpenContactPageCommand}"/>
+</ContentPage.ToolbarItems>
+<StackLayout Padding="20"> 
+<Entry Text="{Binding Filter}" HeightRequest="40" BackgroundColor="#d7e6ed" 
+WidthRequest="250" Placeholder="Search contact" />
+<ListView ItemsSource="{Binding ContactList}" > 
+	<ListView.ItemTemplate>
+		<DataTemplate>
+			<ViewCell >
+			<ViewCell.ContextActions> 
+				<MenuItem Clicked="OnEdit" Command="{Binding EditCommand}"  
+				Text="Edit" CommandParameter="{Binding .}"/>
+				<MenuItem  Clicked="OnDelete" Command="{Binding DeleteCommand}" 
+				Text="Delete" IsDestructive="true" CommandParameter="{Binding .}"/>
+			</ViewCell.ContextActions>
+				<Grid>
+				   <Grid.RowDefinitions>
+						<RowDefinition Height="*" /> 
+ 				   </Grid.RowDefinitions>
+					<Grid.ColumnDefinitions>
+	     			 	<ColumnDefinition Width="*" />
+	     			 	<ColumnDefinition Width="2*" />
+	     			</Grid.ColumnDefinitions>
+	     			 	<Label Grid.Row="0" Grid.Column="0" HeightRequest="25"  VerticalOptions="CenterAndExpand"
+						Text="{Binding FirstName}" Font="Bold,Italic,20"
+						TextColor="#0d3653" HorizontalOptions="Center"/>   
+						<Label Grid.Row="0" Grid.Column="1" HeightRequest="25" VerticalOptions="CenterAndExpand"
+						Text="{Binding LastName}" Font="Bold,Italic,20"
+						TextColor="#0d3653" HorizontalOptions="Start"/>   
+			     </Grid> 
+			</ViewCell>
+		</DataTemplate>
+	</ListView.ItemTemplate>
+	</ListView>
+	</StackLayout>
+</ContentPage>

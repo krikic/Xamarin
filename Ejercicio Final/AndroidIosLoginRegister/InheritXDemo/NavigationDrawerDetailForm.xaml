@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="InheritXDemo.NavigationDrawerDetailForm" xmlns:local="clr-namespace:InheritXDemo;Assembly=InheritXDemo"
+	MasterBehavior="Popover">
+	<MasterDetailPage.Master>
+		<ContentPage Title="Navigation Drawer" >
+			<ContentPage.Content>
+				<StackLayout Orientation="Vertical" Padding="10">
+					<Label Text="" x:Name="lableUserName"  FontSize="15" />
+					<Button Text="Home" Margin="10,10,10,10" Clicked="openHome" HorizontalOptions="CenterAndExpand"/>
+					<Button Text="Change Password" Margin="10,10,10,10"  Clicked="openChangePassword" HorizontalOptions="CenterAndExpand"/>
+					<Button Text="About us" Margin="10,10,10,10"  Clicked="openAboutUs" HorizontalOptions="CenterAndExpand"/>
+					<Button Text="Logout"  Margin="10,10,10,10" Clicked="openLogout" HorizontalOptions="CenterAndExpand"/>
+				</StackLayout>
+			</ContentPage.Content>
+		</ContentPage>
+	</MasterDetailPage.Master>
+	<MasterDetailPage.Detail>
+		<ContentPage>
+			<ContentPage.Content>
+				<StackLayout Orientation="Vertical" BackgroundColor="Olive">
+					<Label Text="This is home page" />
+				</StackLayout>
+			</ContentPage.Content>
+		</ContentPage>
+	</MasterDetailPage.Detail>
+</MasterDetailPage>

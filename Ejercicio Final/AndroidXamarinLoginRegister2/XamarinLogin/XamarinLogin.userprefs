@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="XamarinLogin\XamarinLogin.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.XamarinLogin AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.4b137a47c48e9200" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="XamarinLogin\MainActivity.cs" Line="54" Column="5" />
+      <File FileName="XamarinLogin\Resources\SignUp.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,13 @@
+Instrucciones Quizz
+--------------------------
+1.Usar PHP y Mysql para todo con React Native Cuestionario
+
+2.Primero se debe disponer de sistema de Login y Registro
+
+3.El proyecto se debe componer de un MainActivity(pantalla bienvenida de usuario), al hacer Login que al principio.en la pantalla de MainActivity sale un botón de realizar test
+4.Se trata de un test con diez preguntas y botones Next y Previous(en cada pantalla debe mostrarse una pregunta de test con 4 opciones de radio button).
+5.Al finalizar el test me sale la nota y en comprobar resultados button debe aparecer las preguntas y sus respuestas y en lo que has fallado.
+
+Todo se debe guardar en base de datos(tablas de usuario y tabla de cuestiones y de respuestas).
+
+

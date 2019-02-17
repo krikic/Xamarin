@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="InheritXDemo.AboutUsForm">
+	<ContentPage.Content>
+
+		<Image Source = "http://inheritxdev.net:8489/PMT/Images/logo.png"/>
+		<Label Text ="Inheritx Solution Inheritx Solution Inheritx Solution Inheritx SolutionInheritx Solution Inheritx Solution Inheritx Solution " Margin = "50"/>
+	</ContentPage.Content>
+</ContentPage>

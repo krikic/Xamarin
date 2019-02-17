@@ -1,0 +1,38 @@
+/Users/davidmadicosimon1/Downloads/Xamarin/Factorial/Factorial/obj/Debug/MonoAndroid,Version=v7.0.AssemblyAttribute.cs
+/Users/davidmadicosimon1/Downloads/Xamarin/Factorial/Factorial/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/davidmadicosimon1/Downloads/Xamarin/Factorial/Factorial/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/davidmadicosimon1/Downloads/Xamarin/Factorial/Factorial/bin/Debug/Factorial.dll.mdb
+/Users/davidmadicosimon1/Downloads/Xamarin/Factorial/Factorial/bin/Debug/Factorial.dll
+/Users/davidmadicosimon1/Downloads/Xamarin/Factorial/Factorial/bin/Debug/com.companyname.factorial.apk
+/Users/davidmadicosimon1/Downloads/Xamarin/Factorial/Factorial/obj/Debug/android/bin/com.companyname.factorial.apk
+/Users/davidmadicosimon1/Downloads/Xamarin/Factorial/Factorial/obj/Debug/res/layout/main.xml
+/Users/davidmadicosimon1/Downloads/Xamarin/Factorial/Factorial/obj/Debug/res/values/strings.xml
+/Users/davidmadicosimon1/Downloads/Xamarin/Factorial/Factorial/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/davidmadicosimon1/Downloads/Xamarin/Factorial/Factorial/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/davidmadicosimon1/Downloads/Xamarin/Factorial/Factorial/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/davidmadicosimon1/Downloads/Xamarin/Factorial/Factorial/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/davidmadicosimon1/Downloads/Xamarin/Factorial/Factorial/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/davidmadicosimon1/Downloads/Xamarin/Factorial/Factorial/obj/Debug/R.cs.flag
+/Users/davidmadicosimon1/Downloads/Xamarin/Factorial/Factorial/bin/Debug/com.companyname.factorial-Signed.apk
+/Users/davidmadicosimon1/Downloads/Xamarin/Factorial/Factorial/obj/Debug/uploadflags.txt
+/Users/davidmadicosimon1/Downloads/Xamarin/Factorial/Factorial/obj/Debug/Factorial.dll
+/Users/davidmadicosimon1/Downloads/Xamarin/Factorial/Factorial/obj/Debug/Factorial.dll.mdb
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Factorial/Factorial/obj/Debug/MonoAndroid,Version=v7.0.AssemblyAttribute.cs
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Factorial/Factorial/bin/Debug/Factorial.dll.mdb
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Factorial/Factorial/bin/Debug/Factorial.dll
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Factorial/Factorial/bin/Debug/com.companyname.factorial.apk
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Factorial/Factorial/obj/Debug/android/bin/com.companyname.factorial.apk
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Factorial/Factorial/obj/Debug/res/layout/main.xml
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Factorial/Factorial/obj/Debug/res/values/strings.xml
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Factorial/Factorial/obj/Debug/res/mipmap-hdpi/icon.png
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Factorial/Factorial/obj/Debug/res/mipmap-mdpi/icon.png
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Factorial/Factorial/obj/Debug/res/mipmap-xhdpi/icon.png
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Factorial/Factorial/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Factorial/Factorial/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Factorial/Factorial/obj/Debug/R.cs.flag
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Factorial/Factorial/bin/Debug/com.companyname.factorial-Signed.apk
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Factorial/Factorial/obj/Debug/uploadflags.txt
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Factorial/Factorial/obj/Debug/Factorial.dll
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Factorial/Factorial/obj/Debug/Factorial.dll.mdb
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Factorial/Factorial/bin/Debug/Xamarin.Android.Support.v4.dll
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/Factorial/Factorial/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll

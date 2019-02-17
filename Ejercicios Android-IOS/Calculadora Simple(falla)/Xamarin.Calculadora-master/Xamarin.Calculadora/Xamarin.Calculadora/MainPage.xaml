@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Xamarin.Calculadora"
+             x:Class="Xamarin.Calculadora.MainPage">
+
+  <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="Fill">
+    <Entry x:Name="txtValor1" Placeholder="Valor 2" HorizontalOptions="Fill"></Entry>
+    <Entry x:Name="txtValor2" Placeholder="Valor 1" HorizontalOptions="Fill"></Entry>
+    <Entry x:Name="txtResultado" Placeholder="Resultado"></Entry>
+    <Button x:Name="btnCalcular" Text="Calcular"></Button>
+  </StackLayout>
+</ContentPage>

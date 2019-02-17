@@ -1,0 +1,37 @@
+﻿===================================================================================
+===================================================================================
+================================ APLICACIÓN: FORO =================================
+===================================================================================
+===================================================================================
+============== ¡¡ Si te gusto esta aplicación por favor apollanos =================
+===============  DANDO CLIC en la publicidad de codedrinks.com !! =================
+===================================================================================
+===================================================================================
+===================================================================================
+
+1.- Copia el contenido en el directorio donde utilizaras el script
+2.- Crea la base y ejecuta el codigo sql del archivo foro_base_de_datos.sql
+3.- En la carpeta class modifica el archivo de conexion con los datos de tu conexión
+$mysqli = new mysqli('localhost','usuario','contraseña','nombre de la base de datos',3306);
+4.- Es muy importante en la class conexion que configures la ruta de tu aplicación
+public static function ruta() {
+
+	return "http://localhost/foro2/";
+   
+}
+5.- Dale me gusta a nuestra pagina de facebook y clic a la publicidad
+6.- Dudas y comentarios en la sección de comentarios de la publicación
+
+Gracias!!!
+
+SI TE QUIERES ENVIAR ALGUNA MEJORA AL CODIGO DEJALO EN LOS COMENTARIOS
+
+CAMBIOS EN EL FORO
+V 1.- FORO SIMPLE
+V 1.1.- CAMBIO A DRIVER MYSQLI
+V 1.2.- ELIMINAR COMENTARIOS
+V 1.3.- COMENTAR SOLO CUANDO ESTEN LOGUEADOS
+V 1.4.- PERFIL Y LISTADO DE USUARIOS
+V 1.5.- ELIMINAR USUARIOS POR EL ADMIN Y ELIMINAR LA CUENTA POR EL USUARIO
+
+

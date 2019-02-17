@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#545454"
+
+    android:weightSum="100"
+    android:minWidth="25px"
+    android:minHeight="25px">
+
+    <TextView
+        android:id="@+id/txtCreateAccount"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="20"
+        android:gravity="center"
+        android:text="ForumPostApp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#ce0b18"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/logtxtLogin"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_below="@id/logtxtLogin"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/edit_text_style"
+        android:hint="Login"
+        android:inputType="textEmailAddress"
+        android:paddingLeft="10dp"
+        android:textAlignment="center"
+        android:textColor="#000" />
+
+    <EditText
+        android:id="@+id/logPassword"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_below="@id/logtxtLogin"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/edit_text_style"
+        android:hint="Password"
+        android:inputType="textEmailAddress"
+        android:paddingLeft="10dp"
+        android:textAlignment="center"
+        android:textColor="#000" />
+
+    <Button
+        android:id="@+id/logbtnSignIn"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_weight="15"
+        android:background="@drawable/buttonsigninstyle"
+        android:text="Sign In!"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/logbtnSignUp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_weight="15"
+        android:background="@drawable/buttonsignupstyle"
+        android:drawableLeft="@drawable/smallmail"
+        android:text="Sign up !"
+        android:textAlignment="textStart"
+        android:textSize="20sp" />
+</LinearLayout>

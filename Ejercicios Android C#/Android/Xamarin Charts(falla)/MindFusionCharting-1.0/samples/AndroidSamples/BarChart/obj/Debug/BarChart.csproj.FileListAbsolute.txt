@@ -1,0 +1,7 @@
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/Xamarin Charts/MindFusionCharting-1.0/samples/AndroidSamples/BarChart/obj/Debug/BarChart.nuget.stamp
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/Xamarin Charts/MindFusionCharting-1.0/samples/AndroidSamples/BarChart/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttributes.cs
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/Xamarin Charts/MindFusionCharting-1.0/samples/AndroidSamples/BarChart/obj/Debug/BarChart.csprojAssemblyReference.cache
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/Xamarin Charts/MindFusionCharting-1.0/samples/AndroidSamples/BarChart/obj/Debug/libraryimports.cache.stamp
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/Xamarin Charts/MindFusionCharting-1.0/samples/AndroidSamples/BarChart/obj/Debug/res.flag
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/Xamarin Charts/MindFusionCharting-1.0/samples/AndroidSamples/BarChart/obj/Debug/BarChart.csproj.CoreCompileInputs.cache
+/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android C#/Android/Xamarin Charts/MindFusionCharting-1.0/samples/AndroidSamples/BarChart/obj/Debug/BarChart.dll

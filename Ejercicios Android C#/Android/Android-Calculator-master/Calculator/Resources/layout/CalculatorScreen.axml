@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="230dp"
+    android:layout_gravity="center_vertical"
+    android:layout_marginLeft="26dp"
+    android:layout_marginRight="26dp"
+    android:background="@drawable/myshape">
+<!-- Header -->
+    <LinearLayout
+        android:id="@+id/linearLayoutHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="28dp"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/textHeader"
+            android:layout_alignParentTop="true"
+            android:text="CALCULATOR"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/darker_gray"
+            android:textStyle="normal|italic|bold" />
+    </LinearLayout>
+<!-- Addition -->
+    <LinearLayout
+        android:id="@+id/linearLayoutAddition"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="44dp"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/editTextAddition1"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:inputType="number" />
+        <TextView
+            android:id="@+id/textViewAddition1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/editTextAddition1"
+            android:text="+" />
+        <EditText
+            android:id="@+id/editTextAddition2"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/textViewAddition1"
+            android:ems="10"
+            android:inputType="number" />
+        <TextView
+            android:id="@+id/textViewAddition2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/editTextAddition2"
+            android:text="=" />
+        <EditText
+            android:id="@+id/editTextAddition3"
+            android:layout_width="80dp"
+            android:editable="false"
+            android:enabled="false"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/textViewAddition2"
+            android:ems="10"
+            android:inputType="number" />
+    </LinearLayout>
+<!-- Subtraction -->
+    <LinearLayout
+        android:id="@+id/linearLayoutSubtraction"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearLayoutAddition"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/editTextSubtraction1"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="number" />
+        <TextView
+            android:id="@+id/textViewSubtraction1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/editTextSubtraction1"
+            android:text="-" />
+        <EditText
+            android:id="@+id/editTextSubtraction2"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/textViewSubtraction1"
+            android:ems="10"
+            android:inputType="number" />
+        <TextView
+            android:id="@+id/textViewSubtraction2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/editTextSubtraction2"
+            android:text="=" />
+        <EditText
+            android:id="@+id/editTextSubtraction3"
+            android:editable="false"
+            android:enabled="false"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/textViewSubtraction2"
+            android:ems="10"
+            android:inputType="number" />
+    </LinearLayout>
+<!-- Multiplication -->
+    <LinearLayout
+        android:id="@+id/linearLayoutMultiplication"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearLayoutSubtraction"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/editTextMultiplication1"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="number" />
+        <TextView
+            android:id="@+id/textViewMultiplication1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/editTextMultiplication1"
+            android:text="*" />
+        <EditText
+            android:id="@+id/editTextMultiplication2"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/textViewMultiplication1"
+            android:ems="10"
+            android:inputType="number" />
+        <TextView
+            android:id="@+id/textViewMultiplication2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/editTextMultiplication2"
+            android:text="=" />
+        <EditText
+            android:id="@+id/editTextMultiplication3"
+            android:editable="false"
+            android:enabled="false"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/textViewMultiplication2"
+            android:ems="10"
+            android:inputType="number" />
+    </LinearLayout>
+<!-- Divide -->
+    <LinearLayout
+        android:id="@+id/linearLayoutDivision"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearLayoutMultiplication"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/editTextDivision1"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="number" />
+        <TextView
+            android:id="@+id/textViewDivision1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/editTextDivision1"
+            android:text="/" />
+        <EditText
+            android:id="@+id/editTextDivision2"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/textViewDivision1"
+            android:ems="10"
+            android:inputType="number" />
+        <TextView
+            android:id="@+id/textViewDivision2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/editTextDivision2"
+            android:text="=" />
+        <EditText
+            android:id="@+id/editTextDivision3"
+            android:editable="false"
+            android:enabled="false"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/textViewDivision2"
+            android:ems="10"
+            android:inputType="number" />
+    </LinearLayout>
+    <Button
+        android:id="@+id/calculate"
+        android:layout_below="@+id/linearLayoutMultiplication"
+        android:layout_width="84dp"
+        android:textStyle="normal|italic"
+        android:layout_height="30dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="3dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="8dp"
+        android:background="@drawable/mybutton"
+        android:textColor="@android:color/white"
+        android:text="Calculate" />
+</RelativeLayout>

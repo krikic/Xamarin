@@ -1,0 +1,102 @@
+#extend("base")
+
+#export("content") {
+	<h1 class="forum-name">
+	    <a href="/forum/#(forum.dirname)">#(forum.name)</a> 
+	    <sep><small>•</small></sep> 
+	    <span class="forum-descrip">#(forum.descrip)</span>
+	</h1>
+
+	<article>
+		<icon>
+			#if(post.answered) { <img src="/images/answerok.png"/> } ##else() {
+				#equal(post.type, "0") { <img src="/images/message.png"/> }
+				#equal(post.type, "1") { <img src="/images/answerno.png"/> }
+				#equal(post.type, "2") { <img src="/images/answerno.png"/> }
+			}
+		</icon>
+		<top>
+			<h1 id="post-title"><a href="/forum/#(forum.dirname)/post/#(post.postid)">#(post.title)</a></h1>
+			<h1 id="edit-title"><input type="textbox" name="new-title" id="new-title" value="#(post.title)" /></h1>
+			<h6>
+				<user><a href="/user/#(post.nick)">#(post.nick)</a></user> 
+				• #timeago(post.date) 
+				• #plural(post.views, "view")
+				• #plural(post.replies, "reply", "replies")
+				#equal($userInfo.userid, post.userid) {
+					• <a href="javascript:modifyPost(#(post.postid))">Edit</a> 
+					• <a href="javascript:deletePost(#(post.postid))">Delete</a> 
+				} ##else() {
+					• <a href="javascript:reportPost(#(post.postid))">Report</a> 
+				}
+			</h6>
+		</top>
+		<content id="post-content">
+			#markdown(post.content)
+		</content>
+		<editor id="edit-content">
+			<textarea id="new-content">#(post.content)</textarea>
+			<li><button id="post-save" onclick="savePost(#(post.postid))">Save</button> <button id="post-cancel" onclick="cancelPost()">Cancel</button></li>
+		</editor>
+	</article>
+
+	<replies>
+		<h3>#plural(post.replies, "Reply", "Replies")</h3>
+		#loop(replies, "reply") {
+		<reply id="reply-#(reply.replyid)">
+			<a name="reply-#(reply.replyid)"></a>
+			<side>
+				<votes>
+					<voteup><a href="javascript:star(#(reply.replyid))"><img src="/images/starno.png" class="star-off" id="star-#(reply.replyid)"/></a></voteup> 
+					<votecount id="count-#(reply.replyid)">#(reply.votes)</votecount> 
+					<!-- <votedn><a href="javascript:void()"><img src="/images/votedn.png" class="off" /></a></votedn> -->
+				</votes>
+				<answered> <img src="/images/answerok.png" #if(reply.answer) { class="answer-ok" } /> </answered>
+			</side>
+			<message>
+				<info>
+					<user><a href="/user/#(reply.nick)">#(reply.nick)</a></user> 
+					• <time><a href="javascript:showLink(#(reply.replyid))">#timeago(reply.date)</a></time> 
+					#equal($userInfo.userid, reply.userid) {
+						• <a href="javascript:modifyReply(#(reply.replyid))">Edit</a> 
+						• <a href="javascript:deleteReply(#(reply.replyid))">Delete</a> 
+					} ##else() {
+						• <a href="javascript:reportReply(#(reply.replyid))">Report</a> 
+					}
+					#equal(post.type, "1") {
+						#equal($userInfo.userid, post.userid) {
+							• <a href="javascript:pickAnswer(#(reply.replyid))">Accept</a> 
+						}
+					}
+				</info>
+				<text id="text-reply-#(reply.replyid)" class="text-reply">
+					<p>#markdown(reply.content)</p>
+				</text>
+				<editor id="edit-reply-#(reply.replyid)" class="edit-reply">
+					<textarea id="new-reply-#(reply.replyid)" class="new-reply">#(reply.content)</textarea>
+					<li><button id="reply-save" onclick="saveReply(#(reply.replyid))">Save</button> <button id="reply-cancel" onclick="cancelReply()">Cancel</button></li>
+				</editor>
+			</message>
+		</reply>
+		}
+	</replies>
+
+	#if($userIsLogged) {
+	<newreply>
+		<form method="post" action="/forum/#(forum.dirname)/post/#(post.postid)/submit">
+			<h3>Reply to this thread:</h3>
+			<li><textarea id="content" name="content" rows="6" cols="60" placeholder="Content..."></textarea></li>
+			<li><p class="small">This forum uses markdown - <a href="javascript:showHelp()">Show help for text formatting</a></p></li>
+			<li><input type="submit" value="Send"></li>
+		</form>
+		#embed("markdownhelp")
+	</newreply>
+	} ##else() {
+		<warn><p>Must be <a href="/login">logged in</a> to post in this forum</p></warn>
+	}
+}
+
+#export("scripts") { 
+	<script src="/static/post.js"></script> 
+	<script src="/static/markdown.js"></script> 
+}

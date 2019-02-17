@@ -1,0 +1,44 @@
+/Users/davidmadicosimon1/Downloads/GridView 2/App.GridViewImagem/obj/Debug/MonoAndroid,Version=v7.0.AssemblyAttribute.cs
+/Users/davidmadicosimon1/Downloads/GridView 2/App.GridViewImagem/bin/Debug/App.GridViewImagem.dll.mdb
+/Users/davidmadicosimon1/Downloads/GridView 2/App.GridViewImagem/bin/Debug/App.GridViewImagem.dll
+/Users/davidmadicosimon1/Downloads/GridView 2/App.GridViewImagem/bin/Debug/App.GridViewImagem.App.GridViewImagem.apk
+/Users/davidmadicosimon1/Downloads/GridView 2/App.GridViewImagem/obj/Debug/android/bin/App.GridViewImagem.App.GridViewImagem.apk
+/Users/davidmadicosimon1/Downloads/GridView 2/App.GridViewImagem/obj/Debug/res/layout/modelo.xml
+/Users/davidmadicosimon1/Downloads/GridView 2/App.GridViewImagem/obj/Debug/res/layout/main.xml
+/Users/davidmadicosimon1/Downloads/GridView 2/App.GridViewImagem/obj/Debug/res/values/strings.xml
+/Users/davidmadicosimon1/Downloads/GridView 2/App.GridViewImagem/obj/Debug/res/drawable/icon.png
+/Users/davidmadicosimon1/Downloads/GridView 2/App.GridViewImagem/obj/Debug/res/drawable/belgica.jpg
+/Users/davidmadicosimon1/Downloads/GridView 2/App.GridViewImagem/obj/Debug/res/drawable/brasil.jpg
+/Users/davidmadicosimon1/Downloads/GridView 2/App.GridViewImagem/obj/Debug/res/drawable/franca.jpg
+/Users/davidmadicosimon1/Downloads/GridView 2/App.GridViewImagem/obj/Debug/res/drawable/india.jpg
+/Users/davidmadicosimon1/Downloads/GridView 2/App.GridViewImagem/obj/Debug/res/drawable/italian.jpg
+/Users/davidmadicosimon1/Downloads/GridView 2/App.GridViewImagem/obj/Debug/res/drawable/japao.jpg
+/Users/davidmadicosimon1/Downloads/GridView 2/App.GridViewImagem/obj/Debug/res/drawable/mexico.jpg
+/Users/davidmadicosimon1/Downloads/GridView 2/App.GridViewImagem/obj/Debug/res/drawable/usa1.png
+/Users/davidmadicosimon1/Downloads/GridView 2/App.GridViewImagem/obj/Debug/R.cs.flag
+/Users/davidmadicosimon1/Downloads/GridView 2/App.GridViewImagem/bin/Debug/App.GridViewImagem.App.GridViewImagem-Signed.apk
+/Users/davidmadicosimon1/Downloads/GridView 2/App.GridViewImagem/obj/Debug/uploadflags.txt
+/Users/davidmadicosimon1/Downloads/GridView 2/App.GridViewImagem/obj/Debug/App.GridViewImagem.dll
+/Users/davidmadicosimon1/Downloads/GridView 2/App.GridViewImagem/obj/Debug/App.GridViewImagem.dll.mdb
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/GridView 2/App.GridViewImagem/obj/Debug/MonoAndroid,Version=v7.0.AssemblyAttribute.cs
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/GridView 2/App.GridViewImagem/bin/Debug/App.GridViewImagem.dll.mdb
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/GridView 2/App.GridViewImagem/bin/Debug/App.GridViewImagem.dll
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/GridView 2/App.GridViewImagem/bin/Debug/App.GridViewImagem.App.GridViewImagem.apk
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/GridView 2/App.GridViewImagem/obj/Debug/android/bin/App.GridViewImagem.App.GridViewImagem.apk
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/GridView 2/App.GridViewImagem/obj/Debug/res/layout/modelo.xml
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/GridView 2/App.GridViewImagem/obj/Debug/res/layout/main.xml
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/GridView 2/App.GridViewImagem/obj/Debug/res/values/strings.xml
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/GridView 2/App.GridViewImagem/obj/Debug/res/drawable/icon.png
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/GridView 2/App.GridViewImagem/obj/Debug/res/drawable/belgica.jpg
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/GridView 2/App.GridViewImagem/obj/Debug/res/drawable/brasil.jpg
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/GridView 2/App.GridViewImagem/obj/Debug/res/drawable/franca.jpg
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/GridView 2/App.GridViewImagem/obj/Debug/res/drawable/india.jpg
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/GridView 2/App.GridViewImagem/obj/Debug/res/drawable/italian.jpg
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/GridView 2/App.GridViewImagem/obj/Debug/res/drawable/japao.jpg
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/GridView 2/App.GridViewImagem/obj/Debug/res/drawable/mexico.jpg
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/GridView 2/App.GridViewImagem/obj/Debug/res/drawable/usa1.png
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/GridView 2/App.GridViewImagem/obj/Debug/R.cs.flag
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/GridView 2/App.GridViewImagem/bin/Debug/App.GridViewImagem.App.GridViewImagem-Signed.apk
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/GridView 2/App.GridViewImagem/obj/Debug/uploadflags.txt
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/GridView 2/App.GridViewImagem/obj/Debug/App.GridViewImagem.dll
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/GridView 2/App.GridViewImagem/obj/Debug/App.GridViewImagem.dll.mdb

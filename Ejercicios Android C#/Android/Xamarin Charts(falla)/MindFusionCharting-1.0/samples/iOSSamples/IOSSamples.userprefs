@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{B06F07A3-5F2D-4129-A128-262CECA0DD1C}|Default" VersionControlDisabled="True">
+  <MonoDevelop.Ide.ItemProperties.SynchronizedScroll PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CF6942E8-E60D-4A04-B097-BFF28D94F900" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IOSSamples" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BarChart3D PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CF6942E8-E60D-4A04-B097-BFF28D94F900" />
+  <MonoDevelop.Ide.ItemProperties.Interactivity PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CF6942E8-E60D-4A04-B097-BFF28D94F900" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CandlestickChart PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CF6942E8-E60D-4A04-B097-BFF28D94F900" />
+  <MonoDevelop.Ide.ItemProperties.BarChart PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CF6942E8-E60D-4A04-B097-BFF28D94F900" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RadarChart PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CF6942E8-E60D-4A04-B097-BFF28D94F900" />
+  <MonoDevelop.Ide.ItemProperties.StressTest PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CF6942E8-E60D-4A04-B097-BFF28D94F900" />
+  <MonoDevelop.Ide.ItemProperties.PieChart PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CF6942E8-E60D-4A04-B097-BFF28D94F900" />
+  <MonoDevelop.Ide.ItemProperties.ListBinding PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CF6942E8-E60D-4A04-B097-BFF28D94F900" />
+  <MonoDevelop.Ide.ItemProperties.DateTimeSeries PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CF6942E8-E60D-4A04-B097-BFF28D94F900" />
+  <MonoDevelop.Ide.ItemProperties.BubbleChart PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CF6942E8-E60D-4A04-B097-BFF28D94F900" />
+  <MonoDevelop.Ide.ItemProperties.XmlBinding PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CF6942E8-E60D-4A04-B097-BFF28D94F900" />
+  <MonoDevelop.Ide.ItemProperties.GroupLabels PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CF6942E8-E60D-4A04-B097-BFF28D94F900" />
+  <MonoDevelop.Ide.ItemProperties.LineChart PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CF6942E8-E60D-4A04-B097-BFF28D94F900" />
+</Properties>

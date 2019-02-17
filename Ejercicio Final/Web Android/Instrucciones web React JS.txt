@@ -1,0 +1,26 @@
+Instrucciones web React JS
+-------------------------
+Hacerlo con el método de existencia carpetas android y ios.
+1.Los pasos son como la imagen,Todo los datos deben ser
+almacenado como MYSQL.
+
+2.Si en alguna ocasión hace falta php se usará
+
+2.La web empieza con login y register
+
+3.Si el usuario está logueado correctamente sale
+una pagina de home de bienvenida.
+
+4.La app dispondra de las opciones de menu de tienda,
+foro y formulario de contacto, ademas de integrar el quiz questionary
+
+5.Cuando finalice la compra el usuario hacer checkout
+y enviar la factura al email cliente y jefe.
+
+6.Como guía tengo un proyecto en PHPJquery que me funciona,
+solo te lo he agregado para que veas la idea de lo que
+se quiere hacer.Pero los pasos deben ser mas o menos como
+la imagen formato web y el proyecto PHPJqueryMobile que 
+tengo hecho.
+
+7.La carga inicial al arrancar la web debe ser un percentage circle y después una imagen con logo hasta que salga la pantalla de login si no estuviera loqueado o la de inicio web si lo estuviera.

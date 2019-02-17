@@ -1,0 +1,689 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<style>
+<style>
+.btn-danger {
+ background-color:red;
+}
+
+.btn-success {
+  background-color:green;
+}
+</style>
+</style>
+<script type="text/javascript">
+   
+
+ 
+
+ function inicio() {
+  var boton= document.getElementById("Mybtn");
+    boton.addEventListener("click",comboNotas);
+  var selecMat = document.getElementById("mates");
+  var selecCiencia = document.getElementById("ciencias");
+  var selecFis = document.getElementById("fisica");
+  var selecInf = document.getElementById("informatica");
+  var selecHist = document.getElementById("historia");
+  var boton = document.getElementById("boton");
+  selecMat.addEventListener("change", comprueba);
+  selecCiencia.addEventListener("change", comprueba);
+  selecFis.addEventListener("change", comprueba);
+  selecInf.addEventListener("change", comprueba);
+  selecHist.addEventListener("change", comprueba);
+ }
+
+  function comprueba(evento) {
+  var id = evento.target.id;
+  var nota1 = document.getElementById("mates").selectedIndex;
+  var nota2 = document.getElementById("ciencias").selectedIndex;
+   var nota3 = document.getElementById("fisica").selectedIndex;
+    var nota4 = document.getElementById("informatica").selectedIndex;
+     var nota5 = document.getElementById("historia").selectedIndex;
+
+     if(nota1<1 ){
+     var not1=document.getElementById("nota1");
+     not1.innerHTML="Sense coneixements";
+     if(not1.classList.contains('btn-success')){
+     not1.classList.remove("btn-success");
+     not1.classList.add("btn-danger");
+     }
+
+}
+ else if(nota1>=1 && nota1<=2){
+     var not1=document.getElementById("nota1");
+     not1.innerHTML="Molt deficient";
+     if(not1.classList.contains('btn-success')){
+     not1.classList.remove("btn-success");
+     not1.classList.add("btn-danger");
+     }
+
+}
+ else if(nota1>=3 && nota1<=4){
+     var not1=document.getElementById("nota1");
+     not1.innerHTML="Suspès";
+     if(not1.classList.contains('btn-success')){
+     not1.classList.remove("btn-success");
+     not1.classList.add("btn-danger");
+     }
+ }
+ 
+ else if(nota1===5){
+     var not1=document.getElementById("nota1");
+     not1.innerHTML="Aprovat";
+      if(not1.classList.contains('btn-danger')){
+    not1.classList.remove("btn-danger");
+     not1.classList.add("btn-success");
+     }
+
+ }
+ else if(nota1===6){
+     var not1=document.getElementById("nota1");
+     not1.innerHTML="Bé";
+      if(not1.classList.contains('btn-danger')){
+    not1.classList.remove("btn-danger");
+     not1.classList.add("btn-success");
+     }
+ }
+ 
+  else if(nota1>=7 && nota1<=8){
+     var not1=document.getElementById("nota1");
+     not1.innerHTML="Notable";
+      if(not1.classList.contains('btn-danger')){
+    not1.classList.remove("btn-danger");
+     not1.classList.add("btn-success");
+     }
+     
+ }
+ 
+  else if(nota1===9){
+     var not1=document.getElementById("nota1");
+     not1.innerHTML="Excel-lent";
+      if(not1.classList.contains('btn-danger')){
+    not1.classList.remove("btn-danger");
+     not1.classList.add("btn-success");
+     }
+ }
+ 
+  else{
+     var not1=document.getElementById("nota1");
+     not1.innerHTML="Matricula de Honor";
+     if(not1.classList.contains('btn-danger')){
+    not1.classList.remove("btn-danger");
+     not1.classList.add("btn-success");
+     }
+ }
+   
+ 
+ if(nota2<1){
+     var not2=document.getElementById("nota2");
+     not2.innerHTML="Sense coneixements";
+  if(not2.classList.contains('btn-success')){
+     not2.classList.remove("btn-success");
+     not2.classList.add("btn-danger");
+     }
+     
+   
+     
+ }
+ else if(nota2>=1 && nota2<=2){
+     var not2=document.getElementById("nota2");
+        not2.innerHTML="Molt deficient";
+     if(not2.classList.contains('btn-success')){
+     not2.classList.remove("btn-success");
+     not2.classList.add("btn-danger");
+     }
+  
+ 
+ }
+ else if(nota2>=3 && nota2<=4){
+     var not2=document.getElementById("nota2");
+          not2.innerHTML="Suspès";
+    if(not2.classList.contains('btn-success')){
+     not2.classList.remove("btn-success");
+     not2.classList.add("btn-danger");
+     }
+
+    
+ }
+ 
+ else if(nota2===5){
+     var not2=document.getElementById("nota2");
+       not2.innerHTML="Aprovat";
+      if(not2.classList.contains('btn-danger')){
+     not2.classList.remove("btn-danger");
+     not2.classList.add("btn-success");
+     }
+   
+   
+ }
+ else if(nota2===6){
+     var not2=document.getElementById("nota2");
+       not2.innerHTML="Bé";
+      var not2=document.getElementById("nota2");
+      if(not2.classList.contains('btn-danger')){
+     not2.classList.remove("btn-danger");
+     not2.classList.add("btn-success");
+     }
+   
+     
+ }
+ 
+  else if(nota2>=7 && nota2<=8){
+     var not2=document.getElementById("nota2");
+       not2.innerHTML="Notable";
+      var not2=document.getElementById("nota2");
+      if(not2.classList.contains('btn-danger')){
+     not2.classList.remove("btn-danger");
+     not2.classList.add("btn-success");
+     }
+   
+    
+ }
+ 
+  else if(nota2===9){
+     var not2=document.getElementById("nota2");
+         not2.innerHTML="Excel-lent";
+      if(not2.classList.contains('btn-danger')){
+     not2.classList.remove("btn-danger");
+     not2.classList.add("btn-success");
+     }
+  
+
+ }
+ 
+  else if(nota2===10){
+     var not2=document.getElementById("nota2");
+     not2.innerHTML="Matricula de Honor";
+      if(not2.classList.contains('btn-danger')){
+     not2.classList.remove("btn-danger");
+     not2.classList.add("btn-success");
+     }
+    
+
+ }
+ 
+if(nota3<1){
+     var not3=document.getElementById("nota3");
+     not3.innerHTML="Sense coneixements";
+      if(not3.classList.contains('btn-success')){
+     not3.classList.remove("btn-success");
+     not3.classList.add("btn-danger");
+     }
+      
+ }
+ else if(nota3>=1 && nota3<=2){
+     var not3=document.getElementById("nota3");
+       not3.innerHTML="Molt deficient";
+       if(not3.classList.contains('btn-success')){
+     not3.classList.remove("btn-success");
+     not3.classList.add("btn-danger");
+     }
+    
+ }
+ else if(nota3>=3 && nota3<=4){
+     var not3=document.getElementById("nota3");
+         not3.innerHTML="Suspès";
+       if(not3.classList.contains('btn-success')){
+     not3.classList.remove("btn-success");
+     not3.classList.add("btn-danger");
+     }
+    
+
+ }
+ 
+ else if(nota3===5){
+     var not3=document.getElementById("nota3");
+      not3.innerHTML="Aprovat";
+      if(not3.classList.contains('btn-danger')){
+     not3.classList.remove("btn-danger");
+     not3.classList.add("btn-success");
+     }
+     
+ }
+ else if(nota3===6){
+     var not3=document.getElementById("nota3");
+      not3.innerHTML="Bé";
+      if(not3.classList.contains('btn-danger')){
+     not3.classList.remove("btn-danger");
+     not3.classList.add("btn-success");
+     }
+    
+ }
+ 
+  else if(nota3>=7 && nota3<=8){
+     var not3=document.getElementById("nota3");
+     not3.innerHTML="Notable";
+        if(not3.classList.contains('btn-danger')){
+     not3.classList.remove("btn-danger");
+     not3.classList.add("btn-success");
+     }
+   
+ }
+ 
+  else if(nota3===9){
+     var not3=document.getElementById("nota3");
+     not3.innerHTML="Excel-lent";
+         if(not3.classList.contains('btn-danger')){
+     not3.classList.remove("btn-danger");
+     not3.classList.add("btn-success");
+     }
+       
+ }
+ 
+  else{
+     var not3=document.getElementById("nota3");
+       not3.innerHTML="Matricula de Honor";
+        if(not3.classList.contains('btn-danger')){
+     not3.classList.remove("btn-danger");
+     not3.classList.add("btn-success");
+     }
+   
+ }
+    if(nota4<1){
+     var not4=document.getElementById("nota4");
+     not4.innerHTML="Sense coneixements";
+       if(not4.classList.contains('btn-success')){
+     not4.classList.remove("btn-success");
+     not4.classList.add("btn-danger");
+     }
+       
+ }
+ else if(nota4>=1 && nota4<=2){
+     var not4=document.getElementById("nota4");
+       not4.innerHTML="Molt deficient";
+       if(not4.classList.contains('btn-success')){
+     not4.classList.remove("btn-success");
+     not4.classList.add("btn-danger");
+     }
+ }
+ else if(nota4>=3 && nota4<=4){
+     var not4=document.getElementById("nota4");
+       not4.innerHTML="Suspès";
+      if(not4.classList.contains('btn-success')){
+     not4.classList.remove("btn-success");
+     not4.classList.add("btn-danger");
+     }
+   
+ }
+ 
+ else if(nota4===5){
+     var not4=document.getElementById("nota4");
+      not4.innerHTML="Aprovat";
+     if(not4.classList.contains('btn-danger')){
+     not4.classList.remove("btn-danger");
+     not4.classList.add("btn-success");
+     }
+    
+ }
+ else if(nota4===6){
+     var not4=document.getElementById("nota4");
+     not4.innerHTML="Bé";
+    if(not4.classList.contains('btn-danger')){
+     not4.classList.remove("btn-danger");
+     not4.classList.add("btn-success");
+     }
+     
+ }
+ 
+  else if(nota4>=7 && nota4<=8){
+     var not4=document.getElementById("nota4");
+       not4.innerHTML="Notable";
+    if(not4.classList.contains('btn-danger')){
+     not4.classList.remove("btn-danger");
+     not4.classList.add("btn-success");
+     }
+    
+ }
+ 
+  else if(nota4===9){
+     var not4=document.getElementById("nota4");
+      not4.innerHTML="Excel-lent";
+     if(not4.classList.contains('btn-danger')){
+     not4.classList.remove("btn-danger");
+     not4.classList.add("btn-success");
+     }
+    
+ }
+ 
+  else{
+     var not4=document.getElementById("nota4");
+     not4.innerHTML="Matricula de Honor";
+   if(not4.classList.contains('btn-danger')){
+     not4.classList.remove("btn-danger");
+     not4.classList.add("btn-success");
+     }
+
+ }
+ 
+  if(nota5<1){
+     var not5=document.getElementById("nota5");
+     not5.innerHTML="Sense coneixements";
+      if(not5.classList.contains('btn-success')){
+     not5.classList.remove("btn-success");
+     not5.classList.add("btn-danger");
+     }
+         
+ }
+ else if(nota5>=1 && nota5<=2){
+     var not5=document.getElementById("nota5");
+     not5.innerHTML="Molt deficient";
+      if(not5.classList.contains('btn-success')){
+     not5.classList.remove("btn-success");
+     not5.classList.add("btn-danger");
+     }
+   
+ }
+ else if(nota5>=3 && nota5<=4){
+     var not5=document.getElementById("nota5");
+          not5.innerHTML="Suspès";
+     if(not5.classList.contains('btn-success')){
+     not5.classList.remove("btn-success");
+     not5.classList.add("btn-danger");
+     }
+ }
+ 
+ else if(nota5===5){
+     var not5=document.getElementById("nota5");
+      not5.innerHTML="Aprovat";
+  if(not5.classList.contains('btn-danger')){
+     not5.classList.remove("btn-danger");
+     not5.classList.add("btn-success");
+     }
+ }
+ else if(nota5===6){
+     var not5=document.getElementById("nota5");
+     not5.innerHTML="Bé";
+       if(not5.classList.contains('btn-danger')){
+     not5.classList.remove("btn-danger");
+     not5.classList.add("btn-success");
+     }
+ }
+ 
+  else if(nota5>=7 && nota5<=8){
+     var not5=document.getElementById("nota5");
+      not5.innerHTML="Notable";
+      if(not5.classList.contains('btn-danger')){
+     not5.classList.remove("btn-danger");
+     not5.classList.add("btn-success");
+     }
+ }
+ 
+  else if(nota5===9){
+     var not5=document.getElementById("nota5");
+      not5.innerHTML="Excel-lent";
+     if(not5.classList.contains('btn-danger')){
+     not5.classList.remove("btn-danger");
+     not5.classList.add("btn-success");
+     }
+ }
+ 
+  else{
+     var not5=document.getElementById("nota5");
+     not5.innerHTML="Matricula de Honor";
+     if(not5.classList.contains('btn-danger')){
+     not5.classList.remove("btn-danger");
+     not5.classList.add("btn-success");
+     }
+ }
+ 
+  }
+  
+ function comboNotas() {
+   var contaprobados=0; 
+    var contasuspensos=0; 
+   
+   var max=0;
+  
+ var mates=document.getElementById("mates").value;
+ var ciencias=document.getElementById("ciencias").value;
+ var fisica=document.getElementById("fisica").value;
+ var informatica=document.getElementById("informatica").value;
+ var historia=document.getElementById("historia").value;
+ 
+ nota1=parseInt(mates);
+ nota2=parseInt(ciencias);
+ nota3=parseInt(fisica);
+ nota4=parseInt(informatica);
+ nota5=parseInt(historia);
+ 
+ if(nota1>=5){
+    contaprobados++;
+ }
+ else{
+    contasuspensos++;
+ }
+
+
+ if(nota2>=5){
+    contaprobados++;
+ }
+ else{
+    contasuspensos++;
+ }
+
+
+ if(nota3>=5){
+    contaprobados++;
+ }
+ else{
+    contasuspensos++;
+ }
+
+
+ if(nota4>=5){
+    contaprobados++;
+ }
+ else{
+    contasuspensos++;
+ }
+
+
+ if(nota5>=5){
+    contaprobados++;
+ }
+ else{
+    contasuspensos++;
+ }
+ 
+var promedio=(nota1+nota2+nota3+nota4+nota5)/5;
+ 
+ 
+ 
+ 
+ promedio=(nota1+nota2+nota3+nota4+nota5)/5;
+ 
+ if(nota1>max){
+     max=nota1;
+ }
+ if(nota2>max){
+     max=nota2;
+ }
+if(nota3>max){
+     max=nota3;
+ }
+ 
+if(nota4>max){
+     max=nota4;
+ }
+ 
+if(nota5>max){
+     max=nota5;
+ }
+ 
+if(promedio>=5){
+     var mensaje=document.getElementById("mensaje");
+     mensaje.innerHTML="Alumno pasa de curso";
+ }
+
+ else{
+          var mensaje=document.getElementById("mensaje");
+     mensaje.innerHTML="Alumno repite curso";
+ }
+ var numAsignAprov=document.getElementById("numasignaprovadas");
+ numAsignAprov.innerHTML="Numero de asignaturas aprovadas: "+contaprobados.toString();
+ var numAsignSusp=document.getElementById("numasignsuspendidas");
+ numAsignSusp.innerHTML="Numero de asignaturas suspendidas: "+contasuspensos.toString();
+  var masAlta=document.getElementById("notamasalta");
+ masAlta.innerHTML="La nota más alta es: "+max.toString();
+   var media=document.getElementById("promedio");
+ media.innerHTML="El promedio de notas es: "+promedio.toString();
+ 
+ 
+ }
+ 
+ window.addEventListener("load", inicio);
+</script>
+<style>
+    #responsive-image {  width: 100%;  height: 400px; } 
+    select{
+        width:100%;
+    }
+    h3{
+        color:orange;
+    }
+</style>
+</head>
+<body>
+<header>
+<img src="img/instituto.jpg" class="img-rounded" alt="Cinque Terre" id="responsive-image" >
+</header>
+<section>
+    
+    <div class="btn-group btn-group-justified">
+  <a href="#" class="btn btn-primary">Inicio</a>
+  <a href="#" class="btn btn-primary">Galeria</a>
+</div>
+  
+    <h3>Calculo de Notas</h3>
+   
+    <div class="row">
+    <div class="col-xs-3" style="background-color:grey;">Mates</div>
+    <div class="col-xs-2" style="background-color:grey;">Ciencias</div>
+    <div class="col-xs-2" style="background-color:grey;">Fisica</div>
+        <div class="col-xs-2" style="background-color:grey;">Informática</div>
+            <div class="col-xs-3" style="background-color:grey;">Historia</div>
+    
+  </div>
+    
+    <div class="row">
+        <div class="col-xs-3">
+            <select class="mates" id="mates">
+         <option>0</option>
+          <option>1</option>
+          <option>2</option>
+          <option>3</option>
+          <option>4</option>
+          <option>5</option>
+          <option>6</option>
+          <option>7</option>
+          <option>8</option>
+          <option>9</option>
+          <option>10</option>
+</select>
+
+            
+        </div>
+        <div class="col-xs-2">
+            
+            <select class="ciencias" id="ciencias">
+         <option>0</option>
+          <option>1</option>
+          <option>2</option>
+          <option>3</option>
+          <option>4</option>
+          <option>5</option>
+          <option>6</option>
+          <option>7</option>
+          <option>8</option>
+          <option>9</option>
+          <option>10</option>
+</select>
+           
+    </div>
+   
+            <div class="col-xs-2">
+                
+               <select class="fisica" id="fisica">
+         <option>0</option>
+          <option>1</option>
+          <option>2</option>
+          <option>3</option>
+          <option>4</option>
+          <option>5</option>
+          <option>6</option>
+          <option>7</option>
+          <option>8</option>
+          <option>9</option>
+          <option>10</option>
+          </select>
+                
+                </div>
+      
+            <div class="col-xs-2">
+                
+               <select class="informatica" id="informatica">
+         <option>0</option>
+          <option>1</option>
+          <option>2</option>
+          <option>3</option>
+          <option>4</option>
+          <option>5</option>
+          <option>6</option>
+          <option>7</option>
+          <option>8</option>
+          <option>9</option>
+          <option>10</option>
+          </select>
+            
+        </div>
+            <div class="col-xs-3">
+                
+                  <select class="historia" id="historia">
+         <option>0</option>
+          <option>1</option>
+          <option>2</option>
+          <option>3</option>
+          <option>4</option>
+          <option>5</option>
+          <option>6</option>
+          <option>7</option>
+          <option>8</option>
+          <option>9</option>
+          <option>10</option>
+          </select>
+                
+            </div>
+    </div>
+         <div class="btn-group btn-group-justified">
+    <a href="#" class="btn btn-danger" id="nota1">Nota</a>
+    <a href="#" class="btn btn-danger" id="nota2">Nota</a>
+    <a href="#" class="btn btn-danger" id="nota3">Nota</a>
+      <a href="#" class="btn btn-danger" id="nota4">Nota</a>
+    <a href="#" class="btn btn-danger" id="nota5">Nota</a>
+  </div>
+    <br>
+    <button type="button" class="btn btn-warning btn pull-right" id="Mybtn">Calcular</button>
+    <br>
+    <br>
+    <h3>Resultados</h3>
+    
+    <p id="numasignaprovadas"></p>
+    <p id="numasignsuspendidas"></p>
+      <p id="notamasalta"></p>
+        <p id="promedio"></p>
+          <p id="mensaje"></p>
+
+</section>
+</body>
+</html>

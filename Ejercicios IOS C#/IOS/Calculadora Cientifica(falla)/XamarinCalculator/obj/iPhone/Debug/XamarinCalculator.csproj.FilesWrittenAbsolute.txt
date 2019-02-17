@@ -1,0 +1,10 @@
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios IOS C#(dudas)/IOS/XamarinCalculator-master/XamarinCalculator/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios IOS C#(dudas)/IOS/XamarinCalculator-master/XamarinCalculator/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios IOS C#(dudas)/IOS/XamarinCalculator-master/XamarinCalculator/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios IOS C#(dudas)/IOS/XamarinCalculator-master/XamarinCalculator/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios IOS C#(dudas)/IOS/XamarinCalculator-master/XamarinCalculator/obj/iPhone/Debug/optimized/Default-568h@2x.png
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios IOS C#(dudas)/IOS/XamarinCalculator-master/XamarinCalculator/obj/iPhone/Debug/optimized/
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios IOS C#(dudas)/IOS/XamarinCalculator-master/XamarinCalculator/bin/iPhone/Debug/XamarinCalculator.exe.mdb
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios IOS C#(dudas)/IOS/XamarinCalculator-master/XamarinCalculator/bin/iPhone/Debug/XamarinCalculator.exe
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios IOS C#(dudas)/IOS/XamarinCalculator-master/XamarinCalculator/obj/iPhone/Debug/XamarinCalculator.exe
+/Volumes/Untitled/Xamarin(dudas)/Ejercicios IOS C#(dudas)/IOS/XamarinCalculator-master/XamarinCalculator/obj/iPhone/Debug/XamarinCalculator.exe.mdb

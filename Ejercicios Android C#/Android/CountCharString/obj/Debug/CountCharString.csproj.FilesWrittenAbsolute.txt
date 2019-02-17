@@ -1,0 +1,62 @@
+/Users/davidmadicosimon1/Downloads/Xamarin /CountCharString/obj/Debug/MonoAndroid,Version=v7.0.AssemblyAttribute.cs
+/Users/davidmadicosimon1/Downloads/Xamarin /CountCharString/bin/Debug/CountCharString.dll.mdb
+/Users/davidmadicosimon1/Downloads/Xamarin /CountCharString/bin/Debug/CountCharString.dll
+/Users/davidmadicosimon1/Downloads/Xamarin /CountCharString/bin/Debug/com.companyname.countcharstring.apk
+/Users/davidmadicosimon1/Downloads/Xamarin /CountCharString/obj/Debug/android/bin/com.companyname.countcharstring.apk
+/Users/davidmadicosimon1/Downloads/Xamarin /CountCharString/obj/Debug/res/layout/main.xml
+/Users/davidmadicosimon1/Downloads/Xamarin /CountCharString/obj/Debug/res/values/strings.xml
+/Users/davidmadicosimon1/Downloads/Xamarin /CountCharString/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/davidmadicosimon1/Downloads/Xamarin /CountCharString/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/davidmadicosimon1/Downloads/Xamarin /CountCharString/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/davidmadicosimon1/Downloads/Xamarin /CountCharString/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/davidmadicosimon1/Downloads/Xamarin /CountCharString/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/davidmadicosimon1/Downloads/Xamarin /CountCharString/obj/Debug/R.cs.flag
+/Users/davidmadicosimon1/Downloads/Xamarin /CountCharString/bin/Debug/com.companyname.countcharstring-Signed.apk
+/Users/davidmadicosimon1/Downloads/Xamarin /CountCharString/obj/Debug/uploadflags.txt
+/Users/davidmadicosimon1/Downloads/Xamarin /CountCharString/obj/Debug/CountCharString.dll
+/Users/davidmadicosimon1/Downloads/Xamarin /CountCharString/obj/Debug/CountCharString.dll.mdb
+/Users/davidmadicosimon1/Downloads/Xamarin /CountCharString/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/davidmadicosimon1/Downloads/Xamarin /CountCharString/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString(falla)/obj/Debug/MonoAndroid,Version=v7.0.AssemblyAttribute.cs
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString(falla)/bin/Debug/CountCharString.dll.mdb
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString(falla)/bin/Debug/CountCharString.dll
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString(falla)/bin/Debug/com.companyname.countcharstring.apk
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString(falla)/obj/Debug/android/bin/com.companyname.countcharstring.apk
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString(falla)/obj/Debug/res/layout/main.xml
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString(falla)/obj/Debug/res/values/strings.xml
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString(falla)/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString(falla)/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString(falla)/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString(falla)/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString(falla)/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString(falla)/obj/Debug/R.cs.flag
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString(falla)/bin/Debug/com.companyname.countcharstring-Signed.apk
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString(falla)/obj/Debug/uploadflags.txt
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString(falla)/obj/Debug/CountCharString.dll
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString(falla)/obj/Debug/CountCharString.dll.mdb
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString(falla)/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString(falla)/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString(falla)/obj/Debug/MonoAndroid,Version=v7.1.AssemblyAttribute.cs
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString(falla)/bin/Debug/CountCharString.pdb
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString(falla)/obj/Debug/CountCharString.pdb
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString/obj/Debug/MonoAndroid,Version=v7.1.AssemblyAttribute.cs
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString/bin/Debug/CountCharString.dll.mdb
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString/bin/Debug/CountCharString.pdb
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString/bin/Debug/CountCharString.dll
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString/bin/Debug/com.companyname.countcharstring.apk
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString/obj/Debug/android/bin/com.companyname.countcharstring.apk
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString/obj/Debug/res/layout/main.xml
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString/obj/Debug/res/values/strings.xml
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString/obj/Debug/R.cs.flag
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString/bin/Debug/com.companyname.countcharstring-Signed.apk
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString/obj/Debug/uploadflags.txt
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString/obj/Debug/CountCharString.dll
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString/obj/Debug/CountCharString.dll.mdb
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString/obj/Debug/CountCharString.pdb
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios Android C#(dudas)/Android/CountCharString/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll

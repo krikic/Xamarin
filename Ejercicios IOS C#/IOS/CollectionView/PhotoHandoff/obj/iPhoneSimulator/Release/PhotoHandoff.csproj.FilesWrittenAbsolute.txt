@@ -1,0 +1,10 @@
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios IOS C#(dudas)/IOS/CollectionView/PhotoHandoff/obj/iPhoneSimulator/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios IOS C#(dudas)/IOS/CollectionView/PhotoHandoff/obj/iPhoneSimulator/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios IOS C#(dudas)/IOS/CollectionView/PhotoHandoff/obj/iPhoneSimulator/Release/actool/_PartialAppManifest.items
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios IOS C#(dudas)/IOS/CollectionView/PhotoHandoff/obj/iPhoneSimulator/Release/actool/_BundleResourceWithLogicalName.items
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios IOS C#(dudas)/IOS/CollectionView/PhotoHandoff/obj/iPhoneSimulator/Release/optimized/Data.plist
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios IOS C#(dudas)/IOS/CollectionView/PhotoHandoff/obj/iPhoneSimulator/Release/optimized/
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios IOS C#(dudas)/IOS/CollectionView/PhotoHandoff/bin/iPhoneSimulator/Release/PhotoHandoff.pdb
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios IOS C#(dudas)/IOS/CollectionView/PhotoHandoff/bin/iPhoneSimulator/Release/PhotoHandoff.exe
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios IOS C#(dudas)/IOS/CollectionView/PhotoHandoff/obj/iPhoneSimulator/Release/PhotoHandoff.exe
+/Users/davidmadicosimon1/Desktop/Xamarin(dudas)/Ejercicios IOS C#(dudas)/IOS/CollectionView/PhotoHandoff/obj/iPhoneSimulator/Release/PhotoHandoff.pdb

@@ -1,0 +1,7 @@
+/Volumes/MAXTOR/Copia David/FP/2curso/Processos,Fils y Serveis+visualstudio/Xamarin(dudas)/Ejercicios IOS C#/IOS/Calculadora Basica/Xamarin-master/LetsCalc/LetsCalc/bin/iPhoneSimulator/Debug/LetsCalc.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.2.0.11/lib/mono/Xamarin.iOS/mscorlib.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.2.0.11/lib/mono/Xamarin.iOS/../../64bits/Xamarin.iOS.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.2.0.11/lib/mono/Xamarin.iOS/System.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.2.0.11/lib/mono/Xamarin.iOS/Mono.Security.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.2.0.11/lib/mono/Xamarin.iOS/System.Xml.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.2.0.11/lib/mono/Xamarin.iOS/System.Core.dll

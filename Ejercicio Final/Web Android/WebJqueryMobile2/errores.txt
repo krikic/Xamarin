@@ -1,0 +1,23 @@
+Errores a reparar
+--------------------
+
+Tienda
+-----------
+
+Arreglar la Tienda de JqueryMobile y Jquery(estas dos cosas)
+-----------------------------------------------------------
+1.Hay una sentencia en action.php if(isset($_POST['payment_checkout']))
+donde dentro una vez que quieres enviar la transacción,la manda al correo
+electrónico del jefe con toda la información de los productos comprados
+y la información del usuario que está logueado.Lo ideal es que cliente sesión
+y jefe reciban el mismo email con info factura.Resetea el carro de compra una
+vez finalizada la transacción.El problema es que una vez pagado no envia factura
+ni establece el carro a 0 unidades en el caso del JqueryMobile.La factura se envía erroneamente en ambos casos.
+
+2.Cambiar el sistema de paginación de 1,2,3 a <<,<,1,2,3,>,>>;<<,<,2,3,4,>,>>
+
+3.Copiar y pegar la parte de action.php if(isset($_POST['payment_checkout']))
+a la Tienda de Jquery normal(no mobile) en PHPStorm+el sistema de paginación de JqueryMobile.
+
+
+

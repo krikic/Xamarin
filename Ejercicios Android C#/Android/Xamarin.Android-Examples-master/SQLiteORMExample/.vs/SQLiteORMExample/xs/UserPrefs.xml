@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{0861F142-F3C1-4C95-A633-10FC08E5C3A0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SQLiteORMExample/ManageInventoryActivity.cs">
+    <Files>
+      <File FileName="SQLiteORMExample/ListActivity.cs" Line="14" Column="14" />
+      <File FileName="SQLiteORMExample/InventoryListAdapter.cs" Line="49" Column="16" />
+      <File FileName="SQLiteORMExample/AddInventoryActivity.cs" Line="73" Column="12" />
+      <File FileName="SQLiteORMExample/DBHandler.cs" Line="2" Column="2" />
+      <File FileName="SQLiteORMExample/ManageInventoryActivity.cs" Line="92" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SQLiteORMExample AndroidDeviceId-Debug="4d0042144a393065" MonoForAntroid.PreferredDevice="Nexus 4" MonoForAntroid.PreferredTheme="Theme.DeviceDefault.Light.DarkActionBar" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{7BB6B607-C458-421C-8469-72F6F5466A9D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Factorial AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Factorial/IntentActivity.cs">
+    <Files>
+      <File FileName="Factorial/IntentActivity.cs" Line="42" Column="12" />
+      <File FileName="Factorial/MainActivity.cs" Line="79" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

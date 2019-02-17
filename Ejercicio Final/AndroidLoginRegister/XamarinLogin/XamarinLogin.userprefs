@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{48B4A741-532D-4D3F-96ED-B1E9763BC459}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinLogin/Resources/SignUp.cs">
+    <Files>
+      <File FileName="XamarinLogin/MainActivity.cs" Line="78" Column="43" />
+      <File FileName="XamarinLogin/Resources/SignUp.cs" Line="93" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XamarinLogin AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.David8" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

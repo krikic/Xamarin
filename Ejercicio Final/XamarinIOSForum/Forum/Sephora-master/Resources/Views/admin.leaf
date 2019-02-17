@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+	<title>Swift Forums</title>
+	<link rel="apple-touch-icon" href="/images/swiftlogo.png">
+    <link rel="stylesheet" type="text/css" href="/styles/forum.css">
+    <link rel="stylesheet" type="text/css" href="/styles/admin.css">
+</head>
+
+<body>
+
+<actionbar>
+  <wrap>
+	<actions>
+	#if($userIsLogged) {
+		<a class="nick" href="https://github.com/#($userInfo.nick)">#($userInfo.nick) [0]</a>
+		<a href="/profile">Profile</a>
+		<a href="/logout">Log out</a>
+	} ##else() {
+		<a href="/register">Register</a>
+		<a href="/login">Log In</a>
+	}
+	</actions>
+  </wrap>
+</actionbar>
+
+<header>
+  <wrap>
+	<company>
+		<a href="/">
+			<img class="logo" src="/images/swiftlogo.png" width="60" height="60">
+			<h1>Swift Forums</h1>
+			<h3>Join Swift enthusiasts around the world</h3>
+		</a>
+	</company>
+  </wrap>
+</header>
+
+<main>
+  <wrap>
+	<section>
+		#import("content")
+	</section>
+  </wrap>
+</main>
+
+<footer>
+  <wrap>
+  	<legal>
+		<h3>Forums by Sephora</h3>
+		<line><small><a href="https://swift.org">Powered by Swift</a> ~ <a href="https://vapor.codes">Built on Vapor</a></small></line>
+		<line><small><a href="https://heroku.com">Hosted on Heroku</a> ~ <a href="https://github.com/kuyawa/Sephora">Developed on Github</a></small></line>
+		<last>&copy; Armonia Software</last>
+	</legal>
+  </wrap>
+</footer>
+
+#import("scripts")
+
+</body>
+</html>

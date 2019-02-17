@@ -1,0 +1,9 @@
+﻿<Properties StartupConfiguration="{2D0EBC3D-3379-45C0-8437-9CBAD473B127}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Ejemplo__Calculadora AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" AndroidDeviceId-Debug="015475D801004017" MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
+</Properties>

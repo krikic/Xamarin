@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{3FFC4DDE-5116-4246-9722-F95D22B2FA7B}|Default">
+  <MonoDevelop.Ide.ItemProperties.NumerosPrimos AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="NumerosPrimos/MainActivity.cs" Line="18" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

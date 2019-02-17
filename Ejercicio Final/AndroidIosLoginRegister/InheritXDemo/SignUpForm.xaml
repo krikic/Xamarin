@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="InheritXDemo.SignUpForm" Title="SIGN UP" BackgroundColor="White">
+	<ContentPage.Content>
+		<ScrollView>
+			<StackLayout Margin="30" BackgroundColor="White">
+				<Label Text="NAME" />
+				<Entry x:Name="entryName" Text="" Placeholder="Please enter Name" />
+				<Label Text="MOBILE NUMBER" />
+				<Entry x:Name="entryMobile" Text="" Placeholder="Please enter Mobile number" />
+				<Label Text="EMAIL" />
+				<Entry x:Name="entryEmail"  Text=""  Placeholder="Please enter Email" />
+				<Label Text="PASSWORD" />
+				<Entry x:Name="entryPassword" IsPassword="true" Text="" Placeholder="Please enter Password" />
+				<Label Text="CONFIRM PASSWORD" />
+				<Entry x:Name="entryConfirmPassword"  Text="" IsPassword="true" Placeholder="Please enter Conform password" />
+
+			
+				<Button Text="SIGN UP" Clicked="SignupClick"/>
+			</StackLayout>
+		</ScrollView>
+	</ContentPage.Content>
+</ContentPage>

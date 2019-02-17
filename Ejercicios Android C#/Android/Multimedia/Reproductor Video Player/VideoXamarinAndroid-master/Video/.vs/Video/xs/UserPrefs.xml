@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{C58A10FE-6413-4272-B58C-5761DDFAF602}|Default">
+  <MonoDevelop.Ide.ItemProperties.Video.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CE659E2F-A34C-4098-9FD9-2D6A0FFBD569" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Video/Video.Droid/MainActivity.cs">
+    <Files>
+      <File FileName="Video/Video.Droid/MainActivity.cs" Line="40" Column="141" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Video.Droid PreferredExecutionTarget="Android.dispositivo_2" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

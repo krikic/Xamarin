@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ForumPostApp</string>
+    <string name="title_activity_add_message">addMessage</string>
+</resources>

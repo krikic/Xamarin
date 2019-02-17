@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/davidmadicosimon1/Downloads/Xamarin Charts/MindFusionCharting-1.0/samples/AndroidSamples/GroupLabels/obj/Debug/__library_projects__/MindFusion.Charting.Android/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/davidmadicosimon1/Downloads/Xamarin Charts/MindFusionCharting-1.0/samples/AndroidSamples/GroupLabels/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/davidmadicosimon1/Downloads/Xamarin Charts/MindFusionCharting-1.0/samples/AndroidSamples/GroupLabels/obj/Debug/__library_projects__/Xamarin.Forms.Platform/library_project_imports/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/MindFusion.Charting.Android/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Xamarin.Forms.Platform/library_project_imports/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/davidmadicosimon1/Downloads/Xamarin Charts/MindFusionCharting-1.0/samples/AndroidSamples/GroupLabels/obj/Debug/__library_projects__/MindFusion.Charting.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/davidmadicosimon1/Downloads/Xamarin Charts/MindFusionCharting-1.0/samples/AndroidSamples/GroupLabels/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/davidmadicosimon1/Downloads/Xamarin Charts/MindFusionCharting-1.0/samples/AndroidSamples/GroupLabels/obj/Debug/__library_projects__/Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

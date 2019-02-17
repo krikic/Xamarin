@@ -1,0 +1,31 @@
+Adding Alamofire
+
+Open terminal and navigate to your Xcode Project Directory.
+Now right the following command.
+
+pod init
+
+pod init
+The above command will create a podfile inside your project folder. Open the file and replace the content with the following.
+
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'UserRegistrationExample' do
+ use_frameworks!
+ pod 'Alamofire', '~> 4.3'
+end
+
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+ 
+target 'UserRegistrationExample' do
+ use_frameworks!
+ pod 'Alamofire', '~> 4.3'
+end
+Now come back to the terminal window and run the following command.
+
+pod install
+1
+pod install
+This will install Alamofire to your project. Now just go inside your project folder and open the file ProjectName.xcworkspace.

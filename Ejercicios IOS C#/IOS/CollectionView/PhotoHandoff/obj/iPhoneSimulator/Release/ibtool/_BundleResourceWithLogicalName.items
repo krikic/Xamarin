@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool/MainStoryboard.storyboardc/2YM-BE-zxI-view-zhS-dH-5tP.nib">
+      <LogicalName>MainStoryboard.storyboardc/2YM-BE-zxI-view-zhS-dH-5tP.nib</LogicalName>
+      <InterfaceDefinition>MainStoryboard.storyboard</InterfaceDefinition>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool/MainStoryboard.storyboardc/ABJ-tR-w54-view-SoX-Sc-CQa.nib">
+      <LogicalName>MainStoryboard.storyboardc/ABJ-tR-w54-view-SoX-Sc-CQa.nib</LogicalName>
+      <InterfaceDefinition>MainStoryboard.storyboard</InterfaceDefinition>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool/MainStoryboard.storyboardc/DetailViewController.nib">
+      <LogicalName>MainStoryboard.storyboardc/DetailViewController.nib</LogicalName>
+      <InterfaceDefinition>MainStoryboard.storyboard</InterfaceDefinition>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool/MainStoryboard.storyboardc/Info.plist">
+      <LogicalName>MainStoryboard.storyboardc/Info.plist</LogicalName>
+      <InterfaceDefinition>MainStoryboard.storyboard</InterfaceDefinition>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool/MainStoryboard.storyboardc/RootNavigationViewController.nib">
+      <LogicalName>MainStoryboard.storyboardc/RootNavigationViewController.nib</LogicalName>
+      <InterfaceDefinition>MainStoryboard.storyboard</InterfaceDefinition>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool/MainStoryboard.storyboardc/ViewController.nib">
+      <LogicalName>MainStoryboard.storyboardc/ViewController.nib</LogicalName>
+      <InterfaceDefinition>MainStoryboard.storyboard</InterfaceDefinition>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool/MainStoryboard.storyboardc/blurController.nib">
+      <LogicalName>MainStoryboard.storyboardc/blurController.nib</LogicalName>
+      <InterfaceDefinition>MainStoryboard.storyboard</InterfaceDefinition>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool/MainStoryboard.storyboardc/dmE-Kn-TpH-view-esX-eC-dy5.nib">
+      <LogicalName>MainStoryboard.storyboardc/dmE-Kn-TpH-view-esX-eC-dy5.nib</LogicalName>
+      <InterfaceDefinition>MainStoryboard.storyboard</InterfaceDefinition>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool/MainStoryboard.storyboardc/hBF-KM-ShP-view-y8z-jU-aap.nib">
+      <LogicalName>MainStoryboard.storyboardc/hBF-KM-ShP-view-y8z-jU-aap.nib</LogicalName>
+      <InterfaceDefinition>MainStoryboard.storyboard</InterfaceDefinition>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool/MainStoryboard.storyboardc/modsController.nib">
+      <LogicalName>MainStoryboard.storyboardc/modsController.nib</LogicalName>
+      <InterfaceDefinition>MainStoryboard.storyboard</InterfaceDefinition>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+  </ItemGroup>
+</Project>

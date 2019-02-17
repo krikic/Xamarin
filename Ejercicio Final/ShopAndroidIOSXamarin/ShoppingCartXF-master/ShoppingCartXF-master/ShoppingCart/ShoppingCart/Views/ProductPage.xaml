@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ShoppingCart.Views.ProductPage"
+             xmlns:local="clr-namespace:ShoppingCart;assembly=ShoppingCart"
+             BindingContext="{x:Static local:App.ProductViewModel}"
+             Title="{Binding Product.Name}"
+             BackgroundColor="White">
+
+  <ScrollView>
+    <StackLayout VerticalOptions="FillAndExpand" Padding="50">
+      <Label Text="{Binding Product.Name}"
+        HorizontalOptions="Center"
+        Font="Bold,Large">
+        <Label.TextColor>
+          <OnPlatform x:TypeArguments="Color"
+             iOS="Accent"
+             WinPhone="Accent"
+             Android="#afcca6" />
+        </Label.TextColor>
+      </Label>
+
+      <Image Aspect="AspectFill"
+             HorizontalOptions="FillAndExpand"
+             Source="{Binding Product.ImageUrl}" />
+
+      <Label Text="{Binding Product.Description}"
+        HorizontalOptions="Start"
+        Font="Medium" />
+
+      <Label Text="{Binding Product.Price, StringFormat='{0:c}'}"
+        HorizontalOptions="Start"
+        Font="Bold,Medium" />
+    </StackLayout>
+  </ScrollView>
+</ContentPage>

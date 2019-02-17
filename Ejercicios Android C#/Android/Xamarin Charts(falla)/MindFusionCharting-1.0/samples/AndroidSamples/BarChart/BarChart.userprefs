@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{94627703-083D-48C4-BDC4-1021FD14FF83}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BarChart.csproj">
+    <Files>
+      <File FileName="BarChart.csproj" Line="49" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BarChart" expanded="True">
+            <Node name="BarChart" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BarChart PreferredExecutionTarget="Android.Avd22" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
