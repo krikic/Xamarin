@@ -1,0 +1,5 @@
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios Android C#/Android/Tablas(falla)/DataGrid_GettingStartedAndroid/GettingStarted/obj/Release/GettingStarted.nuget.stamp
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios Android C#/Android/Tablas(falla)/DataGrid_GettingStartedAndroid/GettingStarted/obj/Release/MonoAndroid,Version=v4.4.AssemblyAttributes.cs
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios Android C#/Android/Tablas(falla)/DataGrid_GettingStartedAndroid/GettingStarted/obj/Release/libraryimports.cache.stamp
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios Android C#/Android/Tablas(falla)/DataGrid_GettingStartedAndroid/GettingStarted/obj/Release/res.flag
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios Android C#/Android/Tablas(falla)/DataGrid_GettingStartedAndroid/GettingStarted/obj/Release/GettingStarted.csproj.CoreCompileInputs.cache
