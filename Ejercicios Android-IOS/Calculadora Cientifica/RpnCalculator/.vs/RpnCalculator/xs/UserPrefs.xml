@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{C0357C97-217F-4612-BAF0-B343D16131FA}|Default">
+  <MonoDevelop.Ide.ItemProperties.RpnCalculator.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RpnCalculator/RpnCalculator/RpnCalculatorViewModel.cs">
+    <Files>
+      <File FileName="RpnCalculator/RpnCalculator/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="RpnCalculator/RpnCalculator/RpnCalculatorViewModel.cs" Line="40" Column="22" />
+      <File FileName="RpnCalculator/RpnCalculator/App.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RpnCalculator" expanded="True">
+            <Node name="RpnCalculator" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="RpnCalculatorViewModel.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RpnCalculator.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CE659E2F-A34C-4098-9FD9-2D6A0FFBD569" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

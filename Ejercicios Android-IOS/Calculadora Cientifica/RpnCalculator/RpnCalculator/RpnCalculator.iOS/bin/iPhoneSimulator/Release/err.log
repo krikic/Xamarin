@@ -1,0 +1,3 @@
+MonoTouch: Could not install sigaction override, unexpected sigaction implementation.
+2019-02-23 22:43:06.791256+0100 RpnCalculator.iOS[1371:231045] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=1371
+2019-02-23 22:43:06.791643+0100 RpnCalculator.iOS[1371:231045] SecTaskCopyDebugDescription: RpnCalculator.iO[1371]/0#-1 LF=0

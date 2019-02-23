@@ -1,0 +1,11 @@
+/Users/davidmadicosimon/Downloads/RpnCalculator/RpnCalculator/RpnCalculator/bin/Release/netstandard2.0/RpnCalculator.deps.json
+/Users/davidmadicosimon/Downloads/RpnCalculator/RpnCalculator/RpnCalculator/bin/Release/netstandard2.0/RpnCalculator.dll
+/Users/davidmadicosimon/Downloads/RpnCalculator/RpnCalculator/RpnCalculator/bin/Release/netstandard2.0/RpnCalculator.pdb
+/Users/davidmadicosimon/Downloads/RpnCalculator/RpnCalculator/RpnCalculator/obj/Release/netstandard2.0/App.xaml.g.cs
+/Users/davidmadicosimon/Downloads/RpnCalculator/RpnCalculator/RpnCalculator/obj/Release/netstandard2.0/MainPage.xaml.g.cs
+/Users/davidmadicosimon/Downloads/RpnCalculator/RpnCalculator/RpnCalculator/obj/Release/netstandard2.0/RpnCalculator.csproj.CoreCompileInputs.cache
+/Users/davidmadicosimon/Downloads/RpnCalculator/RpnCalculator/RpnCalculator/obj/Release/netstandard2.0/RpnCalculator.AssemblyInfoInputs.cache
+/Users/davidmadicosimon/Downloads/RpnCalculator/RpnCalculator/RpnCalculator/obj/Release/netstandard2.0/RpnCalculator.AssemblyInfo.cs
+/Users/davidmadicosimon/Downloads/RpnCalculator/RpnCalculator/RpnCalculator/obj/Release/netstandard2.0/XamlC.stamp
+/Users/davidmadicosimon/Downloads/RpnCalculator/RpnCalculator/RpnCalculator/obj/Release/netstandard2.0/RpnCalculator.dll
+/Users/davidmadicosimon/Downloads/RpnCalculator/RpnCalculator/RpnCalculator/obj/Release/netstandard2.0/RpnCalculator.pdb
