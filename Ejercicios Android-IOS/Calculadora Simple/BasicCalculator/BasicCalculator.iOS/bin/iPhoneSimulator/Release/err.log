@@ -1,0 +1,5 @@
+MonoTouch: Could not install sigaction override, unexpected sigaction implementation.
+2019-02-23 17:28:52.849489+0100 BasicCalculator.iOS[2782:1000683] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=2782
+2019-02-23 17:28:52.849846+0100 BasicCalculator.iOS[2782:1000683] SecTaskCopyDebugDescription: BasicCalculator.[2782]/0#-1 LF=0
+2019-02-23 17:29:04.096483+0100 BasicCalculator.iOS[2782:1000683] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=2782
+2019-02-23 17:29:04.096733+0100 BasicCalculator.iOS[2782:1000683] SecTaskCopyDebugDescription: BasicCalculator.[2782]/0#-1 LF=0

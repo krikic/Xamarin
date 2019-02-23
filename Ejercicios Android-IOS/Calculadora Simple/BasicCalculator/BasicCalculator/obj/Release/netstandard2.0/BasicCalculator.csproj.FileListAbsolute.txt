@@ -1,0 +1,11 @@
+/Users/davidmadicosimon/Projects/BasicCalculator/BasicCalculator/bin/Release/netstandard2.0/BasicCalculator.deps.json
+/Users/davidmadicosimon/Projects/BasicCalculator/BasicCalculator/bin/Release/netstandard2.0/BasicCalculator.dll
+/Users/davidmadicosimon/Projects/BasicCalculator/BasicCalculator/bin/Release/netstandard2.0/BasicCalculator.pdb
+/Users/davidmadicosimon/Projects/BasicCalculator/BasicCalculator/obj/Release/netstandard2.0/App.xaml.g.cs
+/Users/davidmadicosimon/Projects/BasicCalculator/BasicCalculator/obj/Release/netstandard2.0/MainPage.xaml.g.cs
+/Users/davidmadicosimon/Projects/BasicCalculator/BasicCalculator/obj/Release/netstandard2.0/BasicCalculator.csproj.CoreCompileInputs.cache
+/Users/davidmadicosimon/Projects/BasicCalculator/BasicCalculator/obj/Release/netstandard2.0/BasicCalculator.AssemblyInfoInputs.cache
+/Users/davidmadicosimon/Projects/BasicCalculator/BasicCalculator/obj/Release/netstandard2.0/BasicCalculator.AssemblyInfo.cs
+/Users/davidmadicosimon/Projects/BasicCalculator/BasicCalculator/obj/Release/netstandard2.0/XamlC.stamp
+/Users/davidmadicosimon/Projects/BasicCalculator/BasicCalculator/obj/Release/netstandard2.0/BasicCalculator.dll
+/Users/davidmadicosimon/Projects/BasicCalculator/BasicCalculator/obj/Release/netstandard2.0/BasicCalculator.pdb

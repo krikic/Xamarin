@@ -1,8 +1,0 @@
-/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android-IOS/Calculadora Cientifica/BasicCalculator/Calculator/obj/Release/Calculator.csprojAssemblyReference.cache
-/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android-IOS/Calculadora Cientifica/BasicCalculator/Calculator/obj/Release/Calculator.csproj.CoreCompileInputs.cache
-/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android-IOS/Calculadora Cientifica/BasicCalculator/Calculator/obj/Release/Calculator.dll
-/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android-IOS/Calculadora Cientifica/BasicCalculator/Calculator/obj/Release/Calculator.pdb
-/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android-IOS/Calculadora Cientifica(falla)/BasicCalculator/Calculator/obj/Release/Calculator.csprojAssemblyReference.cache
-/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android-IOS/Calculadora Cientifica(falla)/BasicCalculator/Calculator/obj/Release/Calculator.csproj.CoreCompileInputs.cache
-/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android-IOS/Calculadora Cientifica(falla)/BasicCalculator/Calculator/obj/Release/Calculator.dll
-/Users/davidmadicosimon/Downloads/Moviles/Xamarin(dudas)/Ejercicios Android-IOS/Calculadora Cientifica(falla)/BasicCalculator/Calculator/obj/Release/Calculator.pdb
