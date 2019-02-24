@@ -1,0 +1,16 @@
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios Android-IOS/CambiarColoresSlider/SliderDemos/SliderDemos/SliderDemos/bin/Release/netstandard2.0/SliderDemos.deps.json
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios Android-IOS/CambiarColoresSlider/SliderDemos/SliderDemos/SliderDemos/bin/Release/netstandard2.0/SliderDemos.dll
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios Android-IOS/CambiarColoresSlider/SliderDemos/SliderDemos/SliderDemos/bin/Release/netstandard2.0/SliderDemos.pdb
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios Android-IOS/CambiarColoresSlider/SliderDemos/SliderDemos/SliderDemos/obj/Release/netstandard2.0/SliderDemos.csprojAssemblyReference.cache
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios Android-IOS/CambiarColoresSlider/SliderDemos/SliderDemos/SliderDemos/obj/Release/netstandard2.0/App.xaml.g.cs
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios Android-IOS/CambiarColoresSlider/SliderDemos/SliderDemos/SliderDemos/obj/Release/netstandard2.0/BasicSliderBindingsPage.xaml.g.cs
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios Android-IOS/CambiarColoresSlider/SliderDemos/SliderDemos/SliderDemos/obj/Release/netstandard2.0/BasicSliderXamlPage.xaml.g.cs
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios Android-IOS/CambiarColoresSlider/SliderDemos/SliderDemos/SliderDemos/obj/Release/netstandard2.0/HomePage.xaml.g.cs
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios Android-IOS/CambiarColoresSlider/SliderDemos/SliderDemos/SliderDemos/obj/Release/netstandard2.0/HslColorSlidersPage.xaml.g.cs
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios Android-IOS/CambiarColoresSlider/SliderDemos/SliderDemos/SliderDemos/obj/Release/netstandard2.0/RgbColorSlidersPage.xaml.g.cs
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios Android-IOS/CambiarColoresSlider/SliderDemos/SliderDemos/SliderDemos/obj/Release/netstandard2.0/SliderDemos.csproj.CoreCompileInputs.cache
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios Android-IOS/CambiarColoresSlider/SliderDemos/SliderDemos/SliderDemos/obj/Release/netstandard2.0/SliderDemos.AssemblyInfoInputs.cache
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios Android-IOS/CambiarColoresSlider/SliderDemos/SliderDemos/SliderDemos/obj/Release/netstandard2.0/SliderDemos.AssemblyInfo.cs
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios Android-IOS/CambiarColoresSlider/SliderDemos/SliderDemos/SliderDemos/obj/Release/netstandard2.0/XamlC.stamp
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios Android-IOS/CambiarColoresSlider/SliderDemos/SliderDemos/SliderDemos/obj/Release/netstandard2.0/SliderDemos.dll
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios Android-IOS/CambiarColoresSlider/SliderDemos/SliderDemos/SliderDemos/obj/Release/netstandard2.0/SliderDemos.pdb

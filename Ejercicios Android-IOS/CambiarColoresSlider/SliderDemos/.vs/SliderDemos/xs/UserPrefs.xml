@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{B21FD3F4-447E-4D07-873C-820473446659}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SliderDemos/SliderDemos/HomePage.xaml">
+    <Files>
+      <File FileName="SliderDemos/SliderDemos/BasicSliderBindingsPage.xaml" Line="25" Column="15" />
+      <File FileName="SliderDemos/SliderDemos/HomePage.xaml" Line="38" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SliderDemos" expanded="True">
+            <Node name="SliderDemos" expanded="True">
+              <Node name="BasicSliderBindingsPage.xaml" expanded="True" />
+              <Node name="HomePage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SliderDemos.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CE659E2F-A34C-4098-9FD9-2D6A0FFBD569" />
+  <MonoDevelop.Ide.ItemProperties.SliderDemos.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
