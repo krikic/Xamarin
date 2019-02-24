@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{1502BAB2-1686-4563-8B5A-4285ECDD150A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RGBColor/RBGView.cs">
+    <Files>
+      <File FileName="RGBColor/MainActivity.cs" Line="42" Column="13" />
+      <File FileName="RGBColor/RBGView.cs" Line="26" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RGBColor" expanded="True">
+            <Node name="RGBColor" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+              <Node name="RBGView.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RGBColor AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

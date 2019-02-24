@@ -1,0 +1,5 @@
+/Users/davidmadicosimon/Downloads/RGBColor/RGBColor/obj/Debug/RGBColor.nuget.stamp
+/Users/davidmadicosimon/Downloads/RGBColor/RGBColor/obj/Debug/MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+/Users/davidmadicosimon/Downloads/RGBColor/RGBColor/obj/Debug/RGBColor.csprojAssemblyReference.cache
+/Users/davidmadicosimon/Downloads/RGBColor/RGBColor/obj/Debug/libraryimports.cache.stamp
+/Users/davidmadicosimon/Downloads/RGBColor/RGBColor/obj/Debug/res.flag
