@@ -1,0 +1,11 @@
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios IOS C#/IOS/AnimatedRGBColors/AnimatedRGBColors/bin/iPhoneSimulator/Release/AnimatedRGBColors.exe
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios IOS C#/IOS/AnimatedRGBColors/AnimatedRGBColors/bin/iPhoneSimulator/Release/AnimatedRGBColors.pdb
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios IOS C#/IOS/AnimatedRGBColors/AnimatedRGBColors/obj/iPhoneSimulator/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios IOS C#/IOS/AnimatedRGBColors/AnimatedRGBColors/obj/iPhoneSimulator/Release/actool/_PartialAppManifest.items
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios IOS C#/IOS/AnimatedRGBColors/AnimatedRGBColors/obj/iPhoneSimulator/Release/actool/_BundleResourceWithLogicalName.items
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios IOS C#/IOS/AnimatedRGBColors/AnimatedRGBColors/obj/iPhoneSimulator/Release/coremlc/_PartialAppManifest.items
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios IOS C#/IOS/AnimatedRGBColors/AnimatedRGBColors/obj/iPhoneSimulator/Release/coremlc/_BundleResourceWithLogicalName.items
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios IOS C#/IOS/AnimatedRGBColors/AnimatedRGBColors/obj/iPhoneSimulator/Release/optimized/
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios IOS C#/IOS/AnimatedRGBColors/AnimatedRGBColors/obj/iPhoneSimulator/Release/AnimatedRGBColors.csproj.CoreCompileInputs.cache
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios IOS C#/IOS/AnimatedRGBColors/AnimatedRGBColors/obj/iPhoneSimulator/Release/AnimatedRGBColors.exe
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios IOS C#/IOS/AnimatedRGBColors/AnimatedRGBColors/obj/iPhoneSimulator/Release/AnimatedRGBColors.pdb

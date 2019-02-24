@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimatedRGBColors", "AnimatedRGBColors\AnimatedRGBColors.csproj", "{B9305C83-20D9-4CAE-952F-99E383670DE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9305C83-20D9-4CAE-952F-99E383670DE3}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{B9305C83-20D9-4CAE-952F-99E383670DE3}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{B9305C83-20D9-4CAE-952F-99E383670DE3}.Release|iPhone.ActiveCfg = Release|iPhone
+		{B9305C83-20D9-4CAE-952F-99E383670DE3}.Release|iPhone.Build.0 = Release|iPhone
+		{B9305C83-20D9-4CAE-952F-99E383670DE3}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{B9305C83-20D9-4CAE-952F-99E383670DE3}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{B9305C83-20D9-4CAE-952F-99E383670DE3}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{B9305C83-20D9-4CAE-952F-99E383670DE3}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
