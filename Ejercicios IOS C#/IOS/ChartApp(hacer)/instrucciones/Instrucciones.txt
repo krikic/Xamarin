@@ -1,0 +1,6 @@
+Instrucciones
+-------------
+
+1.Ir al enlace https://github.com/JesperLekland/react-native-svg-charts
+
+2.Abrir el fichero word de como debe quedar la App
