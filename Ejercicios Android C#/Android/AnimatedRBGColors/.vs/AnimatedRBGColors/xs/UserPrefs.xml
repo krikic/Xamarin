@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{CE4E3369-309D-48A3-AA53-4DFD9367B865}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnimatedRBGColors/MainActivity.cs">
+    <Files>
+      <File FileName="AnimatedRBGColors/MainActivity.cs" Line="17" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AnimatedRBGColors" expanded="True">
+            <Node name="AnimatedRBGColors" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AnimatedRBGColors AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.dispositivo_6" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

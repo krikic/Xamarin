@@ -1,0 +1,4 @@
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios Android C#/Android/AnimatedRBGColors/AnimatedRBGColors/obj/Debug/AnimatedRBGColors.nuget.stamp
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios Android C#/Android/AnimatedRBGColors/AnimatedRBGColors/obj/Debug/MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios Android C#/Android/AnimatedRBGColors/AnimatedRBGColors/obj/Debug/libraryimports.cache.stamp
+/Users/davidmadicosimon/Downloads/Xamarin/Ejercicios Android C#/Android/AnimatedRBGColors/AnimatedRBGColors/obj/Debug/res.flag

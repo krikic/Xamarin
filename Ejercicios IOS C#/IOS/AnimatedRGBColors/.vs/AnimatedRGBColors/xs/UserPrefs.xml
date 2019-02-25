@@ -2,17 +2,17 @@
   <MonoDevelop.Ide.ItemProperties.AnimatedRGBColors PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CE659E2F-A34C-4098-9FD9-2D6A0FFBD569">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.AnimatedRGBColors>
-  <MonoDevelop.Ide.Workbench ActiveDocument="AnimatedRGBColors/Main.storyboard">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnimatedRGBColors/ViewController.cs">
     <Files>
       <File FileName="AnimatedRGBColors/Main.storyboard" />
-      <File FileName="AnimatedRGBColors/ViewController.cs" Line="24" Column="9" />
+      <File FileName="AnimatedRGBColors/ViewController.cs" Line="33" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="AnimatedRGBColors" expanded="True">
             <Node name="AnimatedRGBColors" expanded="True">
-              <Node name="Main.storyboard" selected="True" />
+              <Node name="ViewController.cs" selected="True" />
             </Node>
           </Node>
         </State>

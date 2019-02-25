@@ -1,0 +1,3 @@
+AnimatedRBGColors.MainActivity, AnimatedRBGColors;md53ec122fb1c16b95aa9bec9f1556781b8.MainActivity
+AnimatedRBGColors.MainActivity;md53ec122fb1c16b95aa9bec9f1556781b8.MainActivity
+animatedrbgcolors.MainActivity;md53ec122fb1c16b95aa9bec9f1556781b8.MainActivity
