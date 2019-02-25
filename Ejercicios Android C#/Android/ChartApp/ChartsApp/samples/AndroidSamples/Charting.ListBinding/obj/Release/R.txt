@@ -1,0 +1,4 @@
+int drawable icon 0x7f020000
+int string ApplicationName 0x7f030002
+int string Hello 0x7f030001
+int string library_name 0x7f030000

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage
+	xmlns="http://xamarin.com/schemas/2014/forms"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	xmlns:calendar="clr-namespace:MindFusion.Scheduling;assembly=MindFusion.Scheduling"
+	x:Class="ListView.TestPage">
+	<ContentPage.Content>
+
+	<StackLayout Spacing="5" Padding="10">
+		<Label Text="List View Sample" />
+		<Label Text="This sample demonstrates the List view. The list view in the sample has its CellUnits property set to Week, that is, it displays a list of weeks." FontSize="12" />
+
+		<calendar:Calendar x:Name="calendar" WidthRequest="300" HeightRequest="420"
+			CurrentView="List" />
+
+		<StackLayout Orientation="Horizontal" Spacing="2">
+			<Switch x:Name="freeDragSwitch" PropertyChanged="OnFreeDragChanged" /><Label Text="Free drag" VerticalOptions="Center" />
+		</StackLayout>
+		<StackLayout Orientation="Horizontal" Spacing="2">
+			<Switch x:Name="subheadersSwitch" PropertyChanged="OnSubheadersChanged" /><Label Text="Toggle subheaders" VerticalOptions="Center" />
+		</StackLayout>
+		<StackLayout Orientation="Horizontal" Spacing="2">
+			<Switch x:Name="headerSwitch" PropertyChanged="OnHeaderChanged" /><Label Text="Toggle main header" VerticalOptions="Center" />
+		</StackLayout>
+	</StackLayout>
+
+	</ContentPage.Content>
+</ContentPage>

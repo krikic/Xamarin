@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="Zones.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Zones"
+    RequestedTheme="Light">
+
+</Application>
