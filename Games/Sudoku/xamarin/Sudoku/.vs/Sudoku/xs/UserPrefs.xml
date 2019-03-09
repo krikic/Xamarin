@@ -1,15 +1,18 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SudokuTest\MainActivity.cs">
-    <Files>
-      <File FileName="Sudoku\Controllers\GameController.cs" Line="17" Column="32" />
-      <File FileName="SudokuTest\MainActivity.cs" Line="6" Column="21" />
-      <File FileName="SudokuTest\TestsSample.cs" Line="15" Column="22" />
-    </Files>
+﻿<Properties StartupConfiguration="{FE66A758-C416-4674-B70A-0CC5E883FB61}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sudoku" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Sudoku AndroidDeviceId-Debug="192.168.56.103:5555" MonoForAntroid.PreferredDevice="HTC Desire X" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Sudoku AndroidDeviceId-Debug="192.168.56.103:5555" MonoForAntroid.PreferredDevice="HTC Desire X" />
+  <MultiItemStartupConfigurations />
 </Properties>
