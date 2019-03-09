@@ -1,14 +1,19 @@
 ﻿<Properties StartupConfiguration="{7EFE5A5D-9238-4BBD-8676-252938404040}|Default">
   <MonoDevelop.Ide.ItemProperties.Sudoku.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CE659E2F-A34C-4098-9FD9-2D6A0FFBD569" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sudoku/Sudoku/CurrentGame.cs">
+    <Files>
+      <File FileName="Sudoku/Sudoku/MyColor.cs" Line="1" Column="1" />
+      <File FileName="Sudoku/Sudoku/MyLabel.cs" Line="1" Column="1" />
+      <File FileName="Sudoku/Sudoku/packages.config" Line="1" Column="1" />
+      <File FileName="Sudoku/Sudoku/WinnerList.cs" Line="1" Column="1" />
+      <File FileName="Sudoku/Sudoku/CurrentGame.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Sudoku" expanded="True">
             <Node name="Sudoku" expanded="True">
-              <Node name="Pages" expanded="True">
-                <Node name="GamePage.xaml" selected="True" />
-              </Node>
+              <Node name="CurrentGame.cs" selected="True" />
             </Node>
           </Node>
         </State>

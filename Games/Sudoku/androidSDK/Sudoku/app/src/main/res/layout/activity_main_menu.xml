@@ -1,0 +1,36 @@
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/new_game_button"
+        android:id="@+id/new_game_button"
+        android:focusable="false"
+        android:layout_marginTop="@dimen/main_menu_margin"
+        android:layout_marginBottom="@dimen/main_menu_margin"
+        android:onClick="onButtonClick" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/options_button"
+        android:id="@+id/options_button"
+        android:layout_marginTop="@dimen/main_menu_margin"
+        android:layout_marginBottom="@dimen/main_menu_margin"
+        android:singleLine="false"
+        android:onClick="onButtonClick" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/statistics_button"
+        android:id="@+id/statistics_button"
+        android:layout_marginTop="@dimen/main_menu_margin"
+        android:layout_marginBottom="@dimen/main_menu_margin"
+        android:onClick="onButtonClick" />
+</LinearLayout>
