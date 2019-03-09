@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{AE98D569-75C7-40D3-9BB0-7D3E665D0571}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mobile-Bearded-Bear/Snake.cs">
+    <Files>
+      <File FileName="Mobile-Bearded-Bear/SnakeFood.cs" Line="27" Column="24" />
+      <File FileName="Mobile-Bearded-Bear/SnakeGame.cs" Line="1" Column="1" />
+      <File FileName="Mobile-Bearded-Bear/Snake.cs" Line="13" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mobile-Bearded-Bear" expanded="True">
+            <Node name="Mobile-Bearded-Bear" expanded="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="Snake.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Mobile-Bearded-Bear.Droid PreferredExecutionTarget="Android.dispositivo_4" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

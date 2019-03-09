@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{A5D95612-98D2-4A25-BB6A-04C6EBAC3A86}|Default">
+  <MonoDevelop.Ide.ItemProperties.AnotherTetrisCross.Droid PreferredExecutionTarget="Android.dispositivo_4" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AnotherTetris" expanded="True">
+            <Node name="AnotherTetrisCross" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Ad-Hoc|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,77 @@
+****** 21/01/2011 ******
+
+Version 3.1
+
+Ajouts/Modif:
+- 23 Mahjong spéciaux (voir la rêgle)
+- textbox affichant les actions jouées
+- tuiles grisées pour les kong
+- système de high scores
+- changement des noms de joueurs
+- pour le gagnant: 1 double si les 4 combinaisons sont des brelans ou carrés de tuiles majeures
+
+
+****** 07/09/2007 ******
+
+Version 3.0
+
+DONE:
+- Nouvelle archi soft (ajout de 2 classes)
+- Ajout de la règle du vent dominant
+- La paire est comptée lors du mahjong
+- Comptage des points détaillé
+- Page de règle ajoutée (?->Règles)
+- Meilleur IA (4 sortes, choix sur nb tuiles jetée ou valeur tuile)
+- Kong/Pung cachés comptés
+- Mahjong pur (avec ou sans ou pur honneur) compté
+- Transformation automatique de Pung en Kong par pioche
+
+TODO:
+- Chasse aux bugs
+- Petites améliorations (IA, IHM)
+- IA à but (Mahjong spéciaux)
+
+
+****** 20/08/2007 ******
+
+Version 2.0
+
+DONE:
+- IHM améliorée (nb de tuile restantes, surlignage du joueur dont c'est le tour)
+- Affichage du nombre de tuile jetée en dessous de chaque tuile
+- IA sans bug mais toujours rudimentaire
+- Mahjong pur pris en compte
+- Commentaires ajoutés
+- le nom des joueurs est personalisable,
+- résolution du bug sur le nb de tuiles pour le vent d'est.
+- au départ le vent d'est est tiré au hasard 
+
+TODO:
+- intégrer les tuiles jetées à l'IA
+- règle du vent de la partie (vent dominant)
+- comptage de la paire lors du mahjong
+- comptage du mahjong pur & mahjong speciaux
+- détailler le comptage des points
+- compter les kong cachés déclarés
+- ajouter les règles
+
+
+
+****** 20/07/2007 ******
+
+Version 1.0
+
+- IA basique (discard au hasard sauf ses paires/pung)
+- pas de chow (suite de 3 tuiles)
+- tout le monde peut faire un mahjong
+
+known bugs:
+	- si l'ordi ne possède que des paires, le jeu plante (while infini)
+
+TODO:
+	- IHM à améliorer
+	- règle du vent de la partie (vent dominant)
+	- comptage de la paire lors du mahjong
+	- comptage du mahjong pur & mahjong speciaux
+	- amélioration IA
+	- ajout de commentaires

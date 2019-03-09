@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="20dp">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/TxtViewLoginErrors"
+            android:textColor="#d32f2f" />
+        <EditText
+            android:inputType="textPersonName"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/EditTxtUsername"
+            android:hint="@string/LoginEditTxtUsername" />
+        <EditText
+            android:inputType="textPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/EditTxtPassword"
+            android:hint="@string/LoginEditTxtPassword" />
+        <Button
+            android:text="@string/LoginBtnLogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/BtnLogin" />
+        <TextView
+            android:text="@string/LoginTxtViewOr"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:id="@+id/TxtViewOr" />
+        <Button
+            android:text="@string/LoginBtnRegister"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/BtnRegister" />
+    </LinearLayout>
+</ScrollView>

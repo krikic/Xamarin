@@ -1,0 +1,11 @@
+/Users/davidmadicosimon/Downloads/Xamarin/Games/Tetris/TetrisModel/bin/Release/TetrisModel.dll
+/Users/davidmadicosimon/Downloads/Xamarin/Games/Tetris/TetrisModel/bin/Release/TetrisModel.pdb
+/Users/davidmadicosimon/Downloads/Xamarin/Games/Tetris/TetrisModel/bin/Release/Xamarin.Forms.Core.dll
+/Users/davidmadicosimon/Downloads/Xamarin/Games/Tetris/TetrisModel/bin/Release/Xamarin.Forms.Platform.dll
+/Users/davidmadicosimon/Downloads/Xamarin/Games/Tetris/TetrisModel/bin/Release/Xamarin.Forms.Xaml.dll
+/Users/davidmadicosimon/Downloads/Xamarin/Games/Tetris/TetrisModel/bin/Release/Xamarin.Forms.Core.xml
+/Users/davidmadicosimon/Downloads/Xamarin/Games/Tetris/TetrisModel/bin/Release/Xamarin.Forms.Xaml.xml
+/Users/davidmadicosimon/Downloads/Xamarin/Games/Tetris/TetrisModel/obj/Release/TetrisModel.csproj.CoreCompileInputs.cache
+/Users/davidmadicosimon/Downloads/Xamarin/Games/Tetris/TetrisModel/obj/Release/TetrisModel.csproj.CopyComplete
+/Users/davidmadicosimon/Downloads/Xamarin/Games/Tetris/TetrisModel/obj/Release/TetrisModel.dll
+/Users/davidmadicosimon/Downloads/Xamarin/Games/Tetris/TetrisModel/obj/Release/TetrisModel.pdb

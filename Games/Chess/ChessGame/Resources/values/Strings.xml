@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="ApplicationName">Chess</string>
+  <string name="landingHeader">Chess Game</string>
+  <string name="landingDetails">
+    This application is made as a course project for "Programming and designing mobile applications".
+    It contains a Login/Register system with an admin to remove users (Programming) and a layout of a chess board (Design).
+  </string>
+  <string name="MainCreator">Borislav Rangelov STD - 1401681003</string>
+  <string name="landingBtn">Continue</string>
+  <string name="LoginBtnLogin">Login</string>
+  <string name="LoginErrorRequired">Username and password required!</string>
+  <string name="LoginErrorWrong">Wrong username or password!</string>
+  <string name="LoginEditTxtUsername">Username</string>
+  <string name="LoginEditTxtPassword">Password</string>
+  <string name="LoginTxtViewOr">- OR -</string>
+  <string name="LoginBtnRegister">Register</string>
+  <string name="RegisterName">Name</string>
+  <string name="RegisterUsername">Username</string>
+  <string name="RegisterPassword">Password</string>
+  <string name="RegisterConfirm">Confirm</string>
+  <string name="RegisterBack">Back</string>
+  <string name="RegisterErrorRequired">Name, username and password are required.</string>
+  <string name="RegisterErrorExists">Username already exists.</string>
+  <string name="MenuNewGame">New Game</string>
+  <string name="MenuContinue">Continue</string>
+  <string name="MenuSaveGame">Save</string>
+  <string name="MenuLogout">Logout</string>
+  <string name="MenuSaveSuccess">Game Saved Successfully</string>
+  <string name="GameUndo">Undo</string>
+  <string name="GameUndoDone">Undone</string>
+  <string name="GameMenu">Menu</string>
+</resources>

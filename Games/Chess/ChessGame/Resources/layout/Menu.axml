@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:layout_margin="20dp">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:minWidth="25px"
+        android:minHeight="25px">
+        <ImageView
+            android:src="@drawable/logo"
+            android:layout_width="match_parent"
+            android:layout_height="156.0dp"
+            android:id="@+id/imageView1" />
+        <Button
+            android:text="@string/MenuNewGame"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/MenuNewGame" />
+        <Button
+            android:text="@string/MenuContinue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/MenuContinue" />
+        <Button
+            android:text="@string/MenuSaveGame"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/MenuSaveGame" />
+        <Button
+            android:text="@string/MenuLogout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/MenuLogout" />
+    </LinearLayout>
+</ScrollView>

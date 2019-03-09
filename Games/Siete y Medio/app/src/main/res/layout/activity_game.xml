@@ -1,0 +1,163 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.examples.evill.sietemedia.GameActivity"
+    android:weightSum="1"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.02">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/txtJugador"
+            android:id="@+id/textView"
+            android:layout_marginLeft="25dp"
+            android:layout_marginStart="25dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_gravity="left|center_vertical" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="0"
+            android:id="@+id/tvPuntJug"
+            android:layout_gravity="center" />
+    </FrameLayout>
+
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="120dp"
+        android:id="@+id/horizontalScrollView"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="10dp"
+        android:layout_weight="0.10" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="120dp"
+            android:layout_gravity="center_horizontal"
+            android:baselineAligned="false"
+            android:layout_marginTop="10dp"
+            android:background="#ffaa2d"
+            android:id="@+id/tableroJugador"
+            android:orientation="horizontal">
+
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <FrameLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.02"
+        android:layout_marginTop="10dp">
+
+        <Button
+            android:layout_width="113dp"
+            android:layout_height="wrap_content"
+            android:text="@string/btnPlantarse"
+            android:id="@+id/btnPlanta"
+            android:layout_gravity="center"
+            android:layout_marginLeft="50dp"
+            android:onClick="jugadorSePlanta" />
+
+        <Button
+            android:layout_width="113dp"
+            android:layout_height="wrap_content"
+            android:text="@string/btnCarta"
+            android:id="@+id/btnCarta"
+            android:layout_gravity="left|center_vertical"
+            android:layout_marginLeft="50dp"
+            android:onClick="jugadorPideCarta" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.02"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/txtBanca"
+            android:id="@+id/textView2"
+            android:layout_marginLeft="25dp"
+            android:layout_marginStart="25dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_gravity="left|center_vertical" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="0"
+            android:id="@+id/tvPuntBan"
+            android:layout_gravity="center" />
+    </FrameLayout>
+
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="120dp"
+        android:id="@+id/horizontalScrollView2"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="10dp"
+        android:layout_weight="0.10" >
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:baselineAligned="false"
+            android:layout_marginTop="10dp"
+            android:background="#ffaa2d"
+            android:id="@+id/tableroBanca" />
+    </HorizontalScrollView>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.45"
+        android:layout_marginTop="5dp"
+        android:id="@+id/tablonVictoria">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Large Text"
+            android:id="@+id/tvVictoria"
+            android:layout_gravity="center_horizontal|top"
+            android:visibility="invisible"
+            android:textColor="#2600ff"
+            android:layout_marginTop="7dp" />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:text="@string/btnJugarDeNuevo"
+            android:id="@+id/btnReset"
+            android:layout_gravity="center_horizontal|bottom"
+            android:visibility="invisible"
+            android:enabled="true"
+            android:onClick="reiniciarUI" />
+    </FrameLayout>
+
+</LinearLayout>

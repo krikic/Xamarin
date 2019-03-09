@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/meny_background"
+    tools:context=".Menus.MenuActivity">
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true">
+
+        <Button
+            android:id="@+id/continueGame"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:fontFamily="casual"
+            android:text="Continue game"
+            android:textAllCaps="false"
+            android:textColor="#828783"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:onClick="continueGame"/>
+
+        <Button
+            android:id="@+id/newGame"
+            android:layout_below="@id/continueGame"
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:fontFamily="casual"
+            android:onClick="startNewGame"
+            android:text="New Game"
+            android:textAllCaps="false"
+            android:textColor="#d9fddf"
+            android:textSize="25dp"
+            android:textStyle="bold"/>
+
+        <Button
+            android:id="@+id/scores"
+            android:layout_below="@id/newGame"
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:fontFamily="casual"
+            android:onClick="scores"
+            android:text="Scores"
+            android:textAllCaps="false"
+            android:textColor="#d9fddf"
+            android:textSize="25dp"
+            android:textStyle="bold"/>
+
+        <Button
+            android:id="@+id/settings"
+            android:layout_below="@id/scores"
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:fontFamily="casual"
+            android:text="Settings"
+            android:textAllCaps="false"
+            android:textColor="#d9fddf"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:onClick="OpenSettings"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>

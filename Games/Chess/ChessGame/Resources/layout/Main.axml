@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="20dp"
+    android:fillViewport="true">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center">
+        <TextView
+            android:text="@string/landingHeader"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/LandingHeader"
+            android:textStyle="bold"
+            android:typeface="normal"
+            android:gravity="center_horizontal"
+            android:layout_marginBottom="10dp" />
+        <TextView
+            android:text="@string/landingDetails"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/LandingDescription"
+            android:gravity="center_horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15.5dp" />
+        <Button
+            android:text="@string/landingBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/LandingBtn" />
+        <TextView
+            android:text="@string/MainCreator"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView1"
+            android:gravity="center"
+            android:layout_marginTop="15.0dp" />
+    </LinearLayout>
+</ScrollView>

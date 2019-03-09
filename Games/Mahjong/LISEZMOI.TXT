@@ -1,0 +1,28 @@
+Open Mahjong
+
+Open Mahjong est l'implémentation du jeu de table le Mahjong.
+
+Le mah-jong est un jeu de société d'origine chinoise qui se joue 
+à quatre joueurs, avec des pièces qu'on appelle tuiles. Il est 
+à différencier du jeu solitaire où le but est d'associer les 
+tuiles par paires. Le mah-jong est un jeu qui mêle stratégie,
+calcul et psychologie, ainsi qu'une part plus ou moins importante 
+de chance.
+Plus de détails sur http://fr.wikipedia.org/wiki/Mah-jong
+
+
+Pour jouer, décompressez tous les fichier dans un dossier et
+exécutez OpenMahjong.jar.
+Si vous avez des problème à l'exécution, peut être devez vous
+télécharger la dernière version de Java :
+(http://www.java.com/en/download/index.jsp)
+
+
+Ce programme est sous licence GPL V3 (voir gpl_v3.txt ou 
+http://www.gnu.org/licenses/gpl.html)
+
+
+Pour toute question, n'hésitez pas à me contacter: 
+
+Raphael
+synthaxerrors@gmail.com

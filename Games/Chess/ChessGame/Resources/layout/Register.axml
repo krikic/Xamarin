@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="20dp">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/RegisterErrors"
+            android:textColor="#d32f2f" />
+        <EditText
+            android:inputType="textPersonName"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/RegisterName"
+            android:hint="@string/RegisterName" />
+        <EditText
+            android:inputType="textPersonName"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/RegisterUsername"
+            android:hint="@string/RegisterUsername" />
+        <EditText
+            android:inputType="textPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/RegisterPassword"
+            android:hint="@string/RegisterPassword" />
+        <Button
+            android:text="@string/RegisterConfirm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/RegisterConfirm" />
+        <Button
+            android:text="@string/RegisterBack"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/RegisterBack" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SieteMedia</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="stringversion">Version 6</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Menu Principal-->
+    <string name="newgamebtn">Juego nuevo</string>
+    <string name="gamename">Siete y medio</string>
+
+    <!--Game activity -->
+    <string name="title_activity_game">Siete y medio</string>
+    <string name="txtJugador">Jugador:</string>
+    <string name="txtBanca">Banca:</string>
+    <string name="btnCarta">Carta</string>
+    <string name="btnPlantarse">Plantarse</string>
+    <string name="btnJugarDeNuevo">¡Jugar de nuevo!</string>
+
+    <string name="txtGanaJugador">¡Has Ganado!</string>
+    <string name="txtPierdeJugador">¡Has Perdido!</string>
+    <string name="txtNadieGana">¡Nadie Gana!</string>
+</resources>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/fondoinicio"
+    tools:context="com.example.mario.pokermaster.mainView">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:orientation="horizontal"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/relativeLayout"
+        android:layout_alignParentLeft="true">
+
+
+        <Button
+            android:id="@+id/btn1"
+            style="@style/Widget.AppCompat.Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="88dp"
+            android:layout_marginStart="88dp"
+            android:layout_marginTop="120dp"
+            android:layout_weight="1"
+            android:text="Juego Nuevo"
+            android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large" />
+
+        <Button
+            android:id="@+id/btn2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/btn1"
+            android:layout_alignStart="@+id/btn1"
+            android:layout_below="@+id/btn1"
+            android:layout_marginLeft="40dp"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="17dp"
+            android:text="Salir"
+            android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large" />
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btn6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/relativeLayout"
+        android:layout_marginEnd="39dp"
+        android:layout_marginRight="39dp"
+        android:text="Estadisticas" />
+
+    <Button
+        android:id="@+id/but_simulation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn6"
+        android:layout_toEndOf="@+id/relativeLayout"
+        android:layout_toRightOf="@+id/relativeLayout"
+        android:text="Simulation" />
+
+</RelativeLayout>
