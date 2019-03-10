@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PushNotification.Plugin.Abstractions</name>
+    </assembly>
+    <members>
+        <member name="T:PushNotification.Plugin.Abstractions.IPushNotification">
+            <summary>
+            Interface for PushNotification
+            </summary>
+        </member>
+    </members>
+</doc>
